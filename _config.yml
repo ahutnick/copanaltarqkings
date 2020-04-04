@@ -1,0 +1,51 @@
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Copan Altar Q Network of Narratives and Depictions of Kings
+email: ahutnick@sas.upenn.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Copan Altar Q helped us to understand the lineage of the sixteen kings from
+  the Founder K'inich Yax K'uk Mo' to Yax Pasaj Chan Yopaat. This site delves
+  further into an assortment of the monumental creations and depictions of
+  these kings to pursue the narrative trends and motifs through their reign.
+baseurl: "/copanaltarqkings" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ahutnick
+collections:
+    monuments:
+        output: true
+    kings:
+        output: true
+        sort_by: ruler
+    structures:
+        output: true
+    ukit:
+        output: true
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

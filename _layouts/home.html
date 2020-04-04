@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+<p><strong>Copan Altar Q</strong> constitutes one of the most complete king lists
+    remaining from the ancient Maya world. With each of the 16 kings in the
+    Classic era dynasty, the altar tracks roughly four hundred years of the
+    city’s history. Seated at the foot of the stairway to 10L-16, the Temple
+    of the Founder, this altar connects his last successor Yax Pasaj Chan Yopaat
+    to Yax K'uk Mo' himself. Explore each of the kings and their own monumental creations
+    below, searching for the answers to the following questions:</p>
+    <ul>
+    <li>How did the historical situation in Copan affect their monuments?</li>
+    <li>What were the kings’ rhetorical strategies?</li>
+    <li>Where did these motifs come from?</li>
+    </ul>
+
+<p>To start your exploration, click on the king's name below his portrait on the
+     Altar.</p>
+<p>If you'd like to search for a specific monument, check the <strong>Monuments
+    List</strong> tab above.</p>
+<br>
+
+    {% for king in site.kings %}
+      <p><img src={{site.baseurl}}{{king.image}}></p>
+      <p><a href="{{site.baseurl}}{{king.permalink}}">{{king.ruler}}:
+          {{king.title}}</a></p>
+    {% endfor %}
+
+    <p><a href="{{site.baseurl}}/ukit-took">Ruler 17: Ukit Took</a></p>
+
+    <p>Image Sources</p>
+    <ol type="1">
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Copan_Museum,_Altar_Q,_dynastic_rulers_(15771343718).jpg">
+            Copan Museum, Altar Q, dynastic rulers</a>" (Edited), by Arian Zwegers, is licensed under
+            <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Copan_Museum,_Altar_Q,_dynastic_rulers_(15771343718).jpg">Copan Museum, Altar Q, dynastic rulers</a>" (Edited), by Arian Zwegers, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Altar_Q_at_Cop%C3%A1n,_Honduras.jpg">Altar Q at Cop%C3A1n, Honduras</a>" (Edited) by Adalberto Hernandez Vega, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Altar_Q_at_Cop%C3%A1n,_Honduras.jpg">Altar Q at Cop%C3A1n, Honduras</a>" (Edited) by Adalberto Hernandez Vega, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Altar_Q_at_Cop%C3%A1n,_Honduras.jpg">Altar Q at Cop%C3A1n, Honduras</a>" (Edited) by Adalberto Hernandez Vega, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Altar_Q_at_Cop%C3%A1n,_Honduras.jpg">Altar Q at Cop%C3A1n, Honduras</a>" (Edited) by Adalberto Hernandez Vega, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://www.flickr.com/photos/bogdantapu/42085102621/in/photolist-E4h3P-Qwxzm4-q2Eg2h-7JrzBj-7JnEmD-2hXtiw-8Gt4yM-74wqsr-E4fzn-4nFhzu-bqiNa4-7uSKuC-4nFhBU-FEbHcr-di4JYD-277V9MB">Cambridge, MA, Peabody, Museum of Archaeology and Ethnology at Harvard University - Altar Q from Copan, Honduras [12.08.2008]</a>", by Bogdan Tabu (Edited), is licensed under <a href="creativecommons.org/licenses/by-nc/2.0">CC BY-NC 2.0</a> </li>
+        <li>"<a href="https://www.flickr.com/photos/bogdantapu/42085102621/in/photolist-E4h3P-Qwxzm4-q2Eg2h-7JrzBj-7JnEmD-2hXtiw-8Gt4yM-74wqsr-E4fzn-4nFhzu-bqiNa4-7uSKuC-4nFhBU-FEbHcr-di4JYD-277V9MB">Cambridge, MA, Peabody, Museum of Archaeology and Ethnology at Harvard University - Altar Q from Copan, Honduras [12.08.2008]</a>", by Bogdan Tabu (Edited), is licensed under <a href="creativecommons.org/licenses/by-nc/2.0">CC BY-NC 2.0</a> </li>
+        <li>"<a href="https://www.flickr.com/photos/bogdantapu/42085102621/in/photolist-E4h3P-Qwxzm4-q2Eg2h-7JrzBj-7JnEmD-2hXtiw-8Gt4yM-74wqsr-E4fzn-4nFhzu-bqiNa4-7uSKuC-4nFhBU-FEbHcr-di4JYD-277V9MB">Cambridge, MA, Peabody, Museum of Archaeology and Ethnology at Harvard University - Altar Q from Copan, Honduras [12.08.2008]</a>", by Bogdan Tabu (Edited), is licensed under <a href="creativecommons.org/licenses/by-nc/2.0">CC BY-NC 2.0</a> </li>
+        <li>"<a href="https://www.flickr.com/photos/bogdantapu/42085102621/in/photolist-E4h3P-Qwxzm4-q2Eg2h-7JrzBj-7JnEmD-2hXtiw-8Gt4yM-74wqsr-E4fzn-4nFhzu-bqiNa4-7uSKuC-4nFhBU-FEbHcr-di4JYD-277V9MB">Cambridge, MA, Peabody, Museum of Archaeology and Ethnology at Harvard University - Altar Q from Copan, Honduras [12.08.2008]</a>", by Bogdan Tabu (Edited), is licensed under <a href="creativecommons.org/licenses/by-nc/2.0">CC BY-NC 2.0</a> </li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Altar_Q_at_Cop%C3%A1n,_Honduras.jpg">Altar Q at Cop%C3A1n, Honduras</a>" (Edited) by Adalberto Hernandez Vega, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Altar_Q_at_Cop%C3%A1n,_Honduras.jpg">Altar Q at Cop%C3A1n, Honduras</a>" (Edited) by Adalberto Hernandez Vega, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Altar_Q_at_Cop%C3%A1n,_Honduras.jpg">Altar Q at Cop%C3A1n, Honduras</a>" (Edited) by Adalberto Hernandez Vega, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Altar_Q_at_Cop%C3%A1n,_Honduras.jpg">Altar Q at Cop%C3A1n, Honduras</a>" (Edited) by Adalberto Hernandez Vega, is licensed under <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Copan_Museum,_Altar_Q,_dynastic_rulers_(15771343718).jpg">
+            Copan Museum, Altar Q, dynastic rulers</a>" (Edited), by Arian Zwegers, is licensed under
+            <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+        <li>"<a href="https://commons.wikimedia.org/wiki/File:Copan_Museum,_Altar_Q,_dynastic_rulers_(15771343718).jpg">
+            Copan Museum, Altar Q, dynastic rulers</a>" (Edited), by Arian Zwegers, is licensed under
+            <a href="creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+    </ol>
+
+
+
+</div>
