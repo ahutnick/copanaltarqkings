@@ -9,6 +9,7 @@ permalink: /sources/
 <li>Coe, Michael D. 1989. "The Hero Twins: Myth and Image." In <cite>Maya Vase Book, The: A Corpus of Rollout Photographs of Maya Vases</cite>, 161-184. Vol. 1. New York: Kerr Associates.</li>
 <li>Fash, Barbara W. 2004. “Early Classic Sculptural Development at Copan.” In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 249-264. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Fash, Barbara W. 2011. <cite>Copan Sculpture Museum, The</cite>. Cambridge:Peabody Museum Press.</li>
+<li>Fash, Barbara and Alexandre Tokovinine. n.d. "3D Scanning Project: Peabody Museum’s Corpus of Maya Hieroglyphic Inscriptions program (CMHI)." <cite>Peabody Museum of Archaeology and Ethnology</cite>. Accessed March 25, 2020. https://www.peabody.harvard.edu/3dscan</li>
 <li>Fash, William L, 1991. <cite>Scribes, Warriors, and Kings: The City of Copán and the Ancient Maya</cite>. New York: Thames and Hudson.</li>
 <li>Fash, William. 2002. "Religion and Human Agency in Ancient Maya History:
 Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal</cite> 12 (1): 5-19.</li>

@@ -28,8 +28,8 @@ With the focus on family in the text, <a href="{{site.baseurl}}/bahlam-nehn">Bah
 #### <strong>See Also</strong>:
 <ul>
 <li><a href="{{site.baseurl}}/stela-a">Stela A</a></li>
-<li>Stela E</li>
-<li>Stela 15</li>
+<li><a href="{{site.baseurl}}/stela-e">Stela E</a></li>
+<li><a href="{{site.baseurl}}/stela-15">Stela 15</a></li>
 <li><a href="{{site.baseurl}}/stela-63">Stela 63</a></li>
 </ul>
 

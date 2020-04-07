@@ -15,7 +15,7 @@ image: /images/kings/r12_hjpd.jpg
 <ul>
 <li><a href="{{site.baseurl}}/structure-26">Chorcha Tomb, Structure 10L-26</a>
 </li>
-<li>Stela 2</li>
+<li><a href="{{site.baseurl}}/stela-2">Stela 2</a></li>
 <li>Stela 3</li>
 <li> Stelae 10, 12, 13, 19</li>
 <li>Stela 23</li>

@@ -8,7 +8,7 @@ permalink: /Quirigua Stela J/
 
 #### <strong>Location</strong>: Quirigua, Northern Platform -  Great Plaza
 #### <strong>Dates</strong>: April 12, 756, 9.16.5.0.0
-#### <strong>King</strong>: 13
+#### <strong>Ruler</strong>: 13
 #### <strong>Measurements</strong>: 16.4 feet high, base 21.3 feet x 21.3 feet
 
 Quirigua's Stela J was one of K'ahk' Tiliw Chan Yopaat's several monuments discussing the fall of <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>. It was erected at the completion of the Northern Platform - evoking the entrance to the Underworld in the Great Plaza - the location where the thirteenth ruler was killed (Martin and Grube 2008, 221; Looper 2003, 82-83, 85).  Thi particular stela's dedication date would occur eighteen years after <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s execution, allowing the city time to reap the benefits of their victory and develop their monumental program accordingly (Martin and Grube 2008, 205).

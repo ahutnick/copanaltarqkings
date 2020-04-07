@@ -18,7 +18,12 @@ image: /images/kings/r1_zwegers.jpg
 <li><a href="{{site.baseurl}}/structure-26">Structure 10L-26</a></li>
 <li><a href="{{site.baseurl}}/motmot-marker">Motmot Marker</a></li>
 <li><a href="{{site.baseurl}}/stela-63">Stela 63</a></li>
-<li> ** </li>
+<li><a href="{{site.baseurl}}/altar-q">Altar Q</a></li>
+<li><a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a></li>
+<li><a href="{{site.baseurl}}/stela-15">Stela 15</a></li>
+<li><a href="{{site.baseurl}}/stela-j">Stela J</a></li>
+<li><a href="{{site.baseurl}}/stela-p">Stela P</a></li>
+<li><a href="{{site.baseurl}}/stela-11">Stela 11</a></li>
 </ul>
 
 ** Altar Q Image **

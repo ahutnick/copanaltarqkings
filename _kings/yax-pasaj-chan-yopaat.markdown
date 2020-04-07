@@ -14,10 +14,10 @@ image: /images/kings/r16_zwegers.jpg
 #### <strong>Structures:</strong>
 <ul>
 <li>Stela 8</li>
-<li>Stela 11</li>
+<li><a href="{{site.baseurl}}/stela-11">Stela 11</a></li>
 <li>Stela 29</li>
 <li>Altars G1, G2, and G3</li>
-<li>Altar Q</li>
+<li><a href="{{site.baseurl}}/altar-q">Altar Q</a></li>
 <li>Altar R</li>
 <li>Altar T</li>
 <li>Altar U</li>
@@ -34,18 +34,20 @@ image: /images/kings/r16_zwegers.jpg
 <li>Temple 18 - doorjamb, incensarios, and wall texts</li>
 <li>Temple 18 - tomb</li>
 <li>Temple 21A - bench</li>
+<li></a href="{{site.baseurl}}/structure-16">Temple 16</a></li>
 <li>9N-82 bench</li>
+<li><a href="{{site.baseurl}}/altar-l">Altar L</a></li>
 </ul>
 
 ** Altar Q Image **
 
 Yax Pasaj Chan Yopaat, creator of Altar Q, was the last of the official kings in <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> lineage. The final king may have been as young as nine years old when he acceeded the throne two years afte his predecessor <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a> (Martin and Grube 2008, 209).
 
-While he would have many monuments attributed to him, the bulk of these would be embellishments to existing structures such as doorjambs, incensarios, benches, and altars rather than stelae or complete structural renovations (Martin and Grube 2008, 209). Three stelae are credited to the sixteenth king, although one of these - Stela 11 - is credited posthumously and another - Stela 8 - is largely destroyed or obscured, limiting discussion of his style in stelae (Baudez 1994, 139).
+While he would have many monuments attributed to him, the bulk of these would be embellishments to existing structures such as doorjambs, incensarios, benches, and altars rather than stelae or complete structural renovations (Martin and Grube 2008, 209). Three stelae are credited to the sixteenth king, although one of these - Stela 11 - is credited posthumously and another - Stela 8 - is largely destroyed or obscured, limiting discussion of his style in stelae (Baudez 1994, 139). He would also build <a href="{{site.baseurl}}/structure-16">Temple 16</a> final superstructure on at 10L-16 (Fash 2011, 67).
 
 Yax Pasaj's familial structure was also of particular note. References to his mother appear on not one but two monuments - Stela 8 and Altar U (Schele and Grube 1987, 153). References to a king's mother are far from common at Copan, and what is particularly interesting is that this woman - Lady Chak Ni Ye' Nook - was a member of Palenque nobility (Martin and Grube 2008, 209). There has been some debate as to whether Yax Pasaj's father was <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a>. The fifteenth king may have married into Palenque - one of the core Maya lowland cities - nobility to strengthen Copan's royal line (Fash 1991, 153). Yet, Yax Pasaj only definitively refers to his father once, and the text is inconclusive as to his identity (Martin and Grube 2008, 209). According to Stela N, <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a> recognized his heir regardless of whether Yax Pasaj was his child (Baudez 1994, 86-87). Regardless of his parentage, the fact that Yax Pasaj needed to legitimize his right to rule through his mother's foreign status is telling of the political situation in Copan at his accession.
 
-Like his predecessor before him, Yax Pasaj would create a grand tribute to his ancestors, albeit on a smaller scale. Erected in 776, Altar Q is one of the most complete king lists found in the Maya region, including all sixteen kings in <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>s lineage. The altar was placed at the base of <a href="{{site.baseurl}}/structure-16">Structure 10L-16</a>, a Temple to and tomb of the Founder. The text itself both honors the Founder and legitimizes Yax Pasaj's right to rule by depicting <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> as presenting him with the k'awiil scepter.
+Like his predecessor before him, Yax Pasaj would create a grand tribute to his ancestors, albeit on a smaller scale. For his most famous example, in 776 he dedicated <a href="{{site.baseurl}}/altar-q">Altar Q</a>, one of the most complete king lists found in the Maya region. This monument includes all sixteen kings in <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>s lineage along with their names, though some have eroded or have yet to be understood. The altar was placed at the base of <a href="{{site.baseurl}}/structure-16">Structure 10L-16</a>, a Temple to and tomb of the Founder. The text itself both honors the Founder and legitimizes Yax Pasaj's right to rule by depicting <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> as presenting him with the k'awiil scepter (Martin and Grube 2008, 209).
 
 Yet, Altar Q and its offering had structural flaws that hint at Copan's decline. While Yax Pasaj impressively sacrificed fifteen jaguars to invoke his ancestors as protectors of the city, two of these jaguars had not yet reached adulthood (Fash 1991, 170). Copan did not have the resources to offer a perfect sacrifice. On the altar itself, text had been forced to fit on the space provided with a few grammatical quirks, and one date in particular is impossible for the time period, indicating a carving mistake (Sdouz 2015, 83-85). The apparent flaws on this altar highlights the lack of care able to be afforded to previous kings' monuments.    
 

@@ -18,7 +18,7 @@ Reconstruction and translation of the text had earlier proved difficult due to d
 
 Efforts to record, research, and restore order to the stairway blocks track back at least to the 1890s when an team from Harvard was sent in part to take molds of each of the blocks (Maudslay 1894, 1). The team also gave orders to clear away the vegetation from the monuments and structures including the Stairway (Maudslay 1894, 2). Despite instructions to be cautious, the extent of the tree removal resulted in ideal growing condition for lychen and similar vegetation on the monuments and structures, further complicating matters (Sdouz 2015, 25).
 
-In 1986, the Hieroglyphic Stairway Project began to excavate the exterior of <a href="{{site.baseurl}}/structure-26">Structure 10L-26</a> as well as its substructures as well as to more thoroughly document the Stairway (Fash 1991, 143). As of 2011, 71 percent of the glyphs have been translated (Fash 2011, 103). (Insert sentence about Harvard Digitization Project)
+In 1986, the Hieroglyphic Stairway Project began to excavate the exterior of <a href="{{site.baseurl}}/structure-26">Structure 10L-26</a> as well as its substructures as well as to more thoroughly document the Stairway (Fash 1991, 143). As of 2011, 71 percent of the glyphs have been translated (Fash 2011, 103). Starting in 2007, the Peabody Museum's Corpus of Maya Hieroglyphic Inscriptions program began their efforts to create three dimensional models of various Maya monuments and structures. By 2013, they had completed the digitization of Copan's Hieroglyphic Stairway (Fash and Tokovinine n.d.)
 
 #### <strong>First Phase</strong>:
 
@@ -81,6 +81,7 @@ Notably, each of the king statues on the stairway are dressed in Teotihuacan war
 <li>Baudez, Claude-François. 1994. <cite>Maya Sculpture of Copán: The Iconography</cite>. Norman: University of Oklahoma Press.</li>
 <li>Fash, Barbara W. 2011. <cite>Copan Sculpture Museum, The</cite>. Cambridge:Peabody Museum Press.</li>
 <li>Fash, Barbara W. 2004. “Early Classic Sculptural Development at Copan.” In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 249-264. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
+<li>Fash, Barbara and Alexandre Tokovinine. n.d. "3D Scanning Project: Peabody Museum’s Corpus of Maya Hieroglyphic Inscriptions program (CMHI)." <cite>Peabody Museum of Archaeology and Ethnology</cite>. Accessed March 25, 2020. https://www.peabody.harvard.edu/3dscan</li>
 <li>Fash, William L, 1991. <cite>Scribes, Warriors, and Kings: The City of Copán and the Ancient Maya</cite>. New York: Thames and Hudson.</li>
 <li>Fash, William L., Richard V. Williamson, Carlos Rudy Larios, and Joel Palka. 1992. "THE HIEROGLYPHIC STAIRWAY AND ITS ANCESTORS: Investigations of Copan Structure 10L-26." In <cite>Ancient Mesoamerica</cite> 3(1), 105-15. Accessed March 19, 2020. www.jstor.org/stable/26307229.</li>
 <li>Houston, Stephen, Barbara Fash, and David Stuart. 2014-2015. "Masterful Hands: Morelli and the Maya on the Hieroglyphic Stairway, Copan, Honduras." <cite>Res: Anthropology and Aesthetics</cite>, 65-66(1), 15-36.</li>
