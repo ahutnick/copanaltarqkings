@@ -11,7 +11,7 @@ permalink: /Quirigua Stela J/
 #### <strong>Ruler</strong>: 13
 #### <strong>Measurements</strong>: 16.4 feet high, base 21.3 feet x 21.3 feet
 
-Quirigua's Stela J was one of K'ahk' Tiliw Chan Yopaat's several monuments discussing the fall of <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>. It was erected at the completion of the Northern Platform - evoking the entrance to the Underworld in the Great Plaza - the location where the thirteenth ruler was killed (Martin and Grube 2008, 221; Looper 2003, 82-83, 85).  Thi particular stela's dedication date would occur eighteen years after <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s execution, allowing the city time to reap the benefits of their victory and develop their monumental program accordingly (Martin and Grube 2008, 205).
+Quirigua's Stela J was one of K'ahk' Tiliw Chan Yopaat's several monuments discussing the fall of <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>. It was erected at the completion of the Northern Platform - evoking the entrance to the Underworld in the Great Plaza - the location where the thirteenth ruler was killed (Martin and Grube 2008, 221; Looper 2003, 82-83, 85). This particular stela's dedication date would occur eighteen years after <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s execution, allowing the city time to reap the benefits of their victory and develop their monumental program accordingly (Martin and Grube 2008, 205).
 
 This stela is tall at 16.4 feet and is constructed in the wraparound style, defined as Type VI (Fash 2004, 259). Unlike previous wraparound stelae at Quirigua, Stela J contains side panels of text which are narratively more complex (Looper 2003, 101). On the wraparound, the king stands in shallow relief, wearing a headdress made of three masks topped with a bird god evocative of Tlaloc-Venus (Looper 2003, 107). In keeping with the ritual he wears heavy tinklers, knee bands, and a collar made from jade and shell. He wears a Sak - or Chaak - pectoral and a God C apron while surrounded by serpent heads (Looper 2003, 106). He has a Jaguar shield that may or may not depict the Jaguar Paddler God, complete with cruller (Looper 2003, 103). Interestingly, the possible god appears on the shield rather than out of the serpent bar like in Copan Stelae <a href="{{site.baseurl}}/stela-7">7</a>, <a href="{{site.baseurl}}/stela-p">P</a>, and <a href="{{site.baseurl}}/stela-2">2</a>. Instead, staffs emerge from the serpent bar, similar to the more recent Copan <a href="{{site.baseurl}}/stela-a">Stela A</a> (Looper 2003, 109).
 
@@ -25,7 +25,9 @@ Interestingly, in this stela, K'ahk' Tiliw Chan Yopaat refers to himself with th
 
 Yet, this stela also asserts Quirigua's identity both as an emerging regional power and producer of its own monumental style. This stela at sixteen feet tall was a relatively early installment in a monumental program with stelae as tall as twenty-five feet, the highest in the region (Martin and Grube 2008, 221). With these impressive heights, Quirigua chose to abandon its former pattern of mimicking Copan stelae and return to its own Early Classic style (Martin and Grube 2008, 220-221). The wraparound design, shallow relief, squared shaft, blockiness, curved lines, and double outlines all work to revive and develop this style (Martin and Grube 2008, 221; Looper 2003, 110-112).
 
-This stela understandably represents the rebirth of the city as a major power through physical prowess both in its content and the fact of its construction. The stela's existence provides Quirigua with the physical authority to confirm its newfound power in trade and  politics (Martin and Grube 2008, 221). Yet, its creation also petitions the divine in its ritual garb and the labor taken to create it, seeking the gods' blessing in the city's new role (Looper 2003, 114).       
+This stela understandably represents the rebirth of the city as a major power through physical prowess both in its content and the fact of its construction. The stela's existence provides Quirigua with the physical authority to confirm its newfound power in trade and  politics (Martin and Grube 2008, 221). Yet, its creation also petitions the divine in its ritual garb and the labor taken to create it, seeking the gods' blessing in the city's new role (Looper 2003, 114).
+
+<br>       
 
 #### <strong><a href="{{site.baseurl}}/motif-glossary">Motifs</a></strong>:
 <ul>
@@ -49,7 +51,6 @@ This stela understandably represents the rebirth of the city as a major power th
 <li><a href="{{site.baseurl}}/quirigua-altar-l">Quirigua Altar L</a></li>
 <li><a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a></li>
 <li><a href="{{site.baseurl}}/stela-a">Stela A</a>
-<li>Caracol Altar </li>
 <li>Quirigua Stela H</li>
 <li>Quirigua Stela D</li>
 <li>Quirigua Stela F</li>

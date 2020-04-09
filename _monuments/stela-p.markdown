@@ -11,13 +11,13 @@ permalink: /stela-p/
 #### <strong>Rulers:</strong> 11, 1
 #### <strong>Measurements:</strong> 10.5 feet x 2.13 x 1.73 feet feet at base, 10.5 feet x 2.85 feet x 1.73 feet at top, cribbing 0.98 feet tall
 
-<a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> erected his second stela ten years after <a href="{{site.baseurl}}/stela-7">Stela 7</a> to celebrate tha lahuntun or ten year period (Fash 2011, 55). Like its predecessor, Stela P is a Type IV stela with text on three sides and a figure on the fourth and featured the Paddler Gods emerging from the serpent bar (Fash 2004, 259; Fash 2011, 55). Unlike its predecessor, which was constructed in high relief and in the village, Stela P was constructed in low relief and was found in front of <a href="{{site.baseurl}}/structure-16">Structure 10L-16</a> (Fash 2011, 55; Baudez 1994, 92). While some debate exists as to whether the stela was originally erected here, it would have been positioned in front of the Rosalila Temple and even featured a similar style (Fasquelle 2004, 102).
+<a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> erected his second stela ten years after <a href="{{site.baseurl}}/stela-7">Stela 7</a> to celebrate tha lahuntun or ten year period (Fash 2011, 55). Like its predecessor, Stela P is a Type IV stela with text on three sides and a figure on the fourth and featured the Paddler Gods emerging from the serpent bar (Fash 2004, 259; Fash 2011, 55). Unlike its predecessor, which was constructed in high relief and in the village, Stela P was constructed in low relief and was found in front of <a href="{{site.baseurl}}/structure-16">Structure 10L-16</a> (Fash 2011, 55; Baudez 1994, 92). While some debate exists as to whether the stela was originally erected here, it would have been positioned in front of the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a> and even featured a similar style (Fasquelle 2004, 102).
 
-The stela itself was erected on a prismatic chamber containing various works of dishes and pottery including incensarios with cacao pod embellishments said to be in better condition than the caches beneath Stelae M and N during the fifteenth king <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a>'s reign (Baudez 1994, 94). The cacao embellishments particularly evoke sacrality given cacao's involvement in the Maize God's resurrection as well as the defeat of Underworld God L by the Hero Twins (Stone and Zender 2011, 219).
+The stela itself was erected on a prismatic chamber containing various works of dishes and pottery including incensarios with cacao pod embellishments said to be in better condition than the caches beneath Stelae <a href="{{site.baseurl}}/stela-m">M</a> and <a href="{{site.baseurl}}/stela-n">N</a> during the fifteenth king <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a>'s reign (Baudez 1994, 94). The cacao embellishments particularly evoke sacrality given cacao's involvement in the Maize God's resurrection as well as the defeat of Underworld God L by the Hero Twins (Stone and Zender 2011, 219).
 
 <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> appears once again on the west side of the stela and against a jaguar pelt background. He wears a helmet with serpent and/or crocodilian elements as well as a bird headdress (Baudez 1994, 94; Fash 2011, 56). He also wears a jaguar skirt and loincloth, jade pendants, a skeletal chin mask, youth masks, wristlets with snake heads and quincunxes, and circular shields. Serpents - possibly feathered serpents - surround his legs, and a water-lily shaped skull appears at the top of the stela (Baudez 1994, 94). Serpents and braids and tassels are fairly common on this stela, and the braided or entwined serpent does also appear.
 
-Barbara Fash notes that this stela erected in 623 deliberately evokes the archaic Early Classic style (2004, 256). Its low relief certainly harkens back to the earlier style as well as the serpent meeting the quincunx on the wristlet (Baudez 1994, 247).   
+This stela deliberately evokes the archaic Early Classic style (Fash 2004, 256). Its low relief certainly harkens back to the earlier style as well as the serpent meeting the quincunx on the wristlet (Baudez 1994, 247).   
 
 Furthermore, the stela, being placed in front of the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a> dedicated to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a> would naturally provide associations with the Founder. The feathered serpents, though common in Maya depictions, was derived from Teotihuacan imagery and may have been a reference to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a>s association with the city (Stone and Zender 2011, 201). The serpents also represent Cosmic Monsters and therefore <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s connection with the supernatural (Baudez 1994, 95).
 
@@ -42,14 +42,14 @@ The Paddler Gods like in <a href="{{site.baseurl}}/stela-7">Stela 7</a> evoke th
 #### <strong>See Also:</strong>
 <ul>
 <li><a href="{{site.baseurl}}/stela-7">Stela 7</a></li>
-<li>Stela E</li>
+<li><a href="{{site.baseurl}}/stela-e">Stela E</a></li>
 <li>Stela I</li>
 <li>Stela 1</li>
-<li>Stela 2</li>
+<li><a href="{{site.baseurl}}/stela-2">Stela 2</a></li>
 <li>Stela 18</li>
-<li>Stela M</li>
-<li>Stela N</li>
-<li>Structure 10L-16</li>
+<li><a href="{{site.baseurl}}/stela-m">Stela M</a></li>
+<li><a href="{{site.baseurl}}/stela-n">Stela N</a></li>
+<li><a href="{{site.baseurl}}/structure-16">Rosalila Temple</a></li>
 </ul>
 
 

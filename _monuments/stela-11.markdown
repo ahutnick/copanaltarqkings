@@ -6,11 +6,11 @@ permalink: /stela-11/
 
 # Stela 11
 
-####<strong>Location</strong>: Temple 18
-####<strong>Date</strong>: 9.19.10.0.0 8 Ahau 8 Xul / 820 CE
-####<strong>Kings</strong>: 16, 1
+#### <strong>Location</strong>: Temple 18
+#### <strong>Date</strong>: 9.19.10.0.0 8 Ahau 8 Xul / 820 CE
+#### <strong>Kings</strong>: 16, 1
 
-Stela 11, <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj Chan Yopaat</a>'s funerary stela marked a stark contrast to both Copan's previous style and the king's efforts. The stela is completed in low relief and depicts the final king in warrior garb (). Of note, warrior garb as a motif had been established as a technique particularly used to assert authority after thirteenth king <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s execution.
+Stela 11, <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj Chan Yopaat</a>'s funerary stela marked a stark contrast to both Copan's previous style and the king's efforts. The stela is completed in low relief and depicts the final king in warrior garb (Martin and Grube 2008, 212). Of note, warrior garb as a motif had been established as a technique particularly used to assert authority after thirteenth king <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s execution.
 
 However, Temple 18, which houses this stela, provides more specific sacrifice messages - i.e. having heads of captives aws trophies - than any previous structure (Fash 1991, 170). This occurrence appears odd because we have no evidence of <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj Chan Yopaat</a> as a war-monger, and we do have evidence of him as a diplomat. In the decade before his death he appeared in a Quirigua text participating in a ritual together, meaning that the two cities had apparently made amends (Martin and Grube 2008, 225). This move may have been intended to convince the elites of the sixteenth king's might and authority in the time of a city in decline.
 
@@ -22,7 +22,7 @@ The text itself lists the date and refers to the "toppling of the Foundation Hou
 
 The temple itself had already been looted assumedly in the century after his burial, speaking to the people's need for resources and attitude towards the kings (Fash 1991, 177). His stela would be found broken in half (Fash 1991, 177).
 
-####<strong><a href="{{site.baseurl}}/motif-glossary">Motifs</a></strong>:
+#### <strong><a href="{{site.baseurl}}/motif-glossary">Motifs</a></strong>:
 <ul>
 <li>Crossed bands</li>
 <li>Shell</li>
@@ -30,7 +30,7 @@ The temple itself had already been looted assumedly in the century after his bur
 <li>Torch in forehead</li>
 </ul>
 
-####<strong>See Also</strong>:
+#### <strong>See Also</strong>:
 <ul>
 <li><a href="{{site.baseurl}}/altar-l">Altar L</a></li>
 <li>Altar Q</li>
@@ -38,7 +38,7 @@ The temple itself had already been looted assumedly in the century after his bur
 <li><a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a></li>
 </ul>
 
-####<strong>Sources</strong>
+#### <strong>Sources</strong>
 <ul>
 <li>Fash, Barbara W. 2004. “Early Classic Sculptural Development at Copan.” In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 249-264. Philadelphia: University of Pennsylvania Museum of Archaeology and Antrhopology</li>
 <li>Fash, William L, 1991. <cite>Scribes, Warriors, and Kings: The City of Copán and the Ancient Maya</cite>. New York: Thames and Hudson.</li>

@@ -14,7 +14,7 @@ ruler: 17
 </ul>
 
 After the strong poetic conclusion to the dynasty that could be found in
-Altar Q and Stela 18 came <a href="{{site.baseurl}}/altar-l">Altar L</a>, evidence of a new ruler. Ukit Took, whose name means "Patron of Flint", is rarely considered to be a part
+<a href="{{site.baseurl}}/altar-q">Altar Q</a> and Stela 18 came <a href="{{site.baseurl}}/altar-l">Altar L</a>, evidence of a new ruler. Ukit Took, whose name means "Patron of Flint", is rarely considered to be a part
 of the Classic Copan dynasty (Martin and Grube 2008, 213). Though he depicts himself with <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj Chan Yopaat</a> in traditionally Copan garb, his unusual name and his lack of mention in the record cast doubt on his reputation.
 
 His only monument tells us a single crucial piece about

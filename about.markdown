@@ -19,4 +19,5 @@ This website was originally created by Anastasia Hutnick for completion of her H
 <li>Dr. Scott Enderle, website consultation</li>
 <li>Dr. Barbara Fash, Harvard University</li>
 <li>Katherine Meyers Satriano, Associate Archivist, Peabody Museum</li>
+<li>Mark Ottaviani, website consultation</li>
 </ul>

@@ -42,10 +42,10 @@ In 751, K'ahk' Tiliw Chan Yopaat, the Quirigua king who killed <a href="{{site.b
 <ul>
 <li><a href="{{site.baseurl}}/motmot-marker">Motmot Marker</a></li>
 <li><a href="{{site.baseurl}}/stela-63">Stela 63</a></li>
-<li>Stela 15</li>
+<li><a href="{{site.baseurl}}/stela-15">Stela 15</a></li>
 <li><a href="{{site.baseurl}}/stela-p">Stela P</a></li>
 <li><a href="{{site.baseurl}}/stela-a">Stela A</a></li>
-<li>Quirigua Stela J</li>
+<li><a href="{{site.baseurl}}/quirigua-stela-j">Quirigua Stela J</a></li>
 </ul>
 
 #### <strong>Sources:</strong>

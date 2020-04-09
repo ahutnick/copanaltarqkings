@@ -27,7 +27,7 @@ The text describes a "house censing event", and the king sits on glyphs describi
 The exact connotations present in this altar are likewise debatable. The fact that <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk Uti' Witz' K'awiil</a>
 is directly mentioned during a k'atun ending inscription would suggest that Copan still held political dominion in Quirigua. Yet, Quirigua's exact attitude toward the Copan king at this point is still unsure. The only other inscription mentioning <em>tzak huli</em> described two cities who had recently been at war, so tensions may have already been high (Martin and Grube 2008, 201). The k'in cartouche motif also typically referred to warfare, although the exact reference is unsure (Stone and Zender 2011, 153). At the same time, the twelfth ruler's reign was the height of Copan expansion in the valley, and the altar may have been commissioned by the twelfth ruler to display his power (Looper 2003, 52). The use of an altar motif not commonly found in Copan might be Quirigua establishing their own sculptural identity, cultural diffusion from Caracol, or an act of defiance by creating a monument outside of Copan fashion.
 
-Like the king who erected this monument, Altar L offers a fascinating if not inconclusive look into a period in which Quirigua was largely silent. The mention of Copan's twelfth ruler certainly reveals the reach of his power regardless of political motive. With the reign of <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>, the power dynamic between the two cities was about to drastically change, as would be evident on the next known Quirigua king K'ahk' Tiliw Chan Yopaat's Stela J.
+Like the king who erected this monument, Altar L offers a fascinating if not inconclusive look into a period in which Quirigua was largely silent. The mention of Copan's twelfth ruler certainly reveals the reach of his power regardless of political motive. With the reign of <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>, the power dynamic between the two cities was about to drastically change, as would be evident on the next known Quirigua king K'ahk' Tiliw Chan Yopaat's <a href="{{site.baseurl}}/quirigua-stela-j">Stela J</a>.
 
 
 #### <strong><a href="{{site.baseurl}}/motif-glossary">Motifs:</a></strong>
@@ -38,9 +38,9 @@ Like the king who erected this monument, Altar L offers a fascinating if not inc
 
 #### <strong>See Also:</strong>
 <ul>
-<li>Caracol Stela 16</li>
-<li>Quirigua Stela J</li>
-<li>Stela 2</li>
+<li><a href="{{site.baseurl}}/caracol-stela-16">Caracol Stela 16</a></li>
+<li><a href="{{site.baseurl}}/quirigua-stela-j">Quirigua Stela J</a></li>
+<li><a href="{{site.baseurl}}/stela-2">Stela 2</a></li>
 <li>Stela 3</li>
 <li>Stela 10</li>
 <li>Stela 12</li>
