@@ -10,7 +10,7 @@ image: /images/kings/r15_zwegers.jpg
 
 #### <strong>AKA:</strong> Smoke Shell, Smoking Squirrel, Smoke Squirrel
 #### <strong>Reign:</strong> 749 - 761
-#### <strong>Preceded by:</strong> <a href="{{site.baseurl}}/kahk-joplaj-chan-yopaat">K'ahk' Joplaj Chan Yopaat</a>
+#### <strong>Preceded by:</strong> <a href="{{site.baseurl}}/kahk-joplaj-chan-kawiil">K'ahk' Joplaj Chan K'awiil</a>
 #### <strong>Succeeded by:</strong> <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj Chan Yopaat</a>
 #### <strong>Structures:</strong>
 <ul>

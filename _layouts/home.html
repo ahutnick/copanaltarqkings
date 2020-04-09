@@ -27,8 +27,8 @@ layout: default
 <p>If you'd like to search for a specific monument, check the <strong>Monuments
     List</strong> tab above.</p>
 <br>
-
-    {% for king in site.kings %}
+    {% assign lineage = site.kings | sort: 'ruler' %}
+    {% for king in lineage %}
       <p><img src={{site.baseurl}}{{king.image}}></p>
       <p><a href="{{site.baseurl}}{{king.permalink}}">{{king.ruler}}:
           {{king.title}}</a></p>
