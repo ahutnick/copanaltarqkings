@@ -27,7 +27,7 @@ The baktun ending would be a defining moment for this lineage in Copan and Struc
 <ul>
 <li>Cardinal Directions</li>
 <li>Feathered Serpent</li>
-<li>Jaguars</li>
+<li>Jaguar</li>
 <li>Mirrored profile</li>
 <li>Quatrefoil</li>
 <li>Serpent bar</li>

@@ -25,7 +25,7 @@ The figure bears a crocodile helmet on his head, lancets on his wristlet, and th
 
 The associated altar also fits in with the elaborate carving strategy as a Witz zoomorph, or the cave entrance to the underworld (Baudez 1994, 76; Fasquelle 2004, 109). The altar is comprised of three pieces, with the base forming the body and two heads that fit into the north and south alcoves. The body has three Witz masks on the top, east, and west and three sided deer feet made of shells (Baudez 1994, 77).
 
-The life head was identified in the south with two instances of the Star of Venus, and had a bacab head in its mouth to hold up the creature and as a result the world (Baudez 1994, 77 - 80; Taylor 1978, 2). This head also has a serpent jaw, three circles on the earrings, and motifs around the eyes and cord on its forehead. The life head also wears a hatched bonnet, which may be a variant on the mat motif, signaling royalty. The death head in the north also wears a bonnet as well as a braid, the underworld tripartite emblem, and, fittingly, skeletal jaws. The head also has a rectangular k'in cartouche, which could be interpreted as a symbol of warfare (Stone and Zender 2011, 153). Given that Copan claimed that <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> died by "flint and shield", this symbol may be intended to honor the king allegedly fallen in battle (Martin and Grube 2008, 219).    
+The life head was identified in the south with two instances of the Star of Venus, and had a bacab head emerging from its mouth as it held up the sky (Baudez 1994, 77 - 80; Taylor 1978, 2). This head also has a serpent jaw, three circles on the earrings, and motifs around the eyes and cord on its forehead. The life head also wears a hatched bonnet, which may be a variant on the mat motif, signaling royalty. The death head in the north also wears a bonnet as well as a braid, the underworld tripartite emblem, and, fittingly, skeletal jaws. The head also has a rectangular k'in cartouche, which could be interpreted as a symbol of warfare (Stone and Zender 2011, 153). Given that Copan claimed that <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> died by "flint and shield", this symbol may be intended to honor the king allegedly fallen in battle (Martin and Grube 2008, 219).    
 
 <a href="{{site.baseurl}}/kahk-yipyaj-chan-yopaat">K'ahk' Yipyaj Chan Yopaat</a>'s stela combined with the altar suggests him emerging from the Underworld and rising in accession (Baudez 1994, 80). Furthermore, the crocodilian helmet could be used to associate the fifteenth ruler with the world axis, asserting his necessity to the cosmic order (Stone and Zender 2011, 183). The first stela since the thirteenth king's demise revives his flair for ostentation particularly when combined with the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a>, <a href="{{site.baseurl}}/kahk-yipyaj-chan-yopaat">K'ahk' Yipyaj Chan Yopaat</a> emphasizes both his strength as a ruler and the strength of his city.
 
@@ -33,7 +33,7 @@ The life head was identified in the south with two instances of the Star of Venu
 
 #### <strong><a href="{{site.baseurl}}/motifs">Motifs:</a></strong>
 <ul>
-<li>Bicephalic monster</li>
+<li>Bicephalic zoomorph</li>
 <li>Braid and Tassel</li>
 <li>Crocodile</li>
 <li>Crossed bands</li>

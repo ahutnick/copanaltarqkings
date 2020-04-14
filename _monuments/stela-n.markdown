@@ -26,9 +26,10 @@ This action would explain why both kings appear young and why they both appear t
 <li>Ancestor Figures</li>
 <li>Bacabs</li>
 <li>Bat</li>
+<li>Bicephalic zoomorph</li>
 <li>Braid and Tassel</li>
 <li>Crocodile</li>
-<li>Crossed Bands glyph</li>
+<li>Crossed Bands</li>
 <li>Double Figure Stela</li>
 <li>God K</li>
 <li>Intertwined Serpents</li>

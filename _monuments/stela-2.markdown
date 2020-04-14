@@ -19,7 +19,7 @@ Above the headdress, a waterlily emerges, mirroring the waterlily emerging from 
 
 Like in <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s <a href="{{site.baseurl}}/stela-p">Stela P</a> and <a href="{{site.baseurl}}/stela-7">Stela 7</a>, the Paddler Gods emerge from the serpent bar rather than floating by the ruler's head as was common for a period ending (Stone and Zender 2011, 51).
 
-In Stela 2, <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a> pays homage to his predecessor by creating a variant of <a href="{{site.baseurl}}/stela-p">Stela P</a>. These monuments would have stood simultaneously as <a href="{{site.baseurl}}/stela-p">Stela P</a> was reported as standing in place when Stephens found it in 1839 (Baudez 1994, 92). These stelae both invokine the king's divine abilities and role during period endings.
+In Stela 2, <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a> pays homage to his predecessor by creating a variant of <a href="{{site.baseurl}}/stela-p">Stela P</a>. These monuments would have stood simultaneously as <a href="{{site.baseurl}}/stela-p">Stela P</a> was reported as standing in place when Stephens found it in 1839 (Baudez 1994, 92). These stelae both invoke the king's divine abilities and role during period endings.
 
 #### <strong><a href="{{site.baseurl}}/motif-glossary">Motifs</a></strong>:
 <ul>

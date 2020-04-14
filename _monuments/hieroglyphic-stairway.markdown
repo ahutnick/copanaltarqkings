@@ -53,7 +53,7 @@ Notably, each of the king statues on the stairway are dressed in Teotihuacan war
 #### <strong><a href="{{site.baseurl}}/motif-glossary">Motifs</a></strong>
 <ul>
 <li>Centipede</li>
-<li>Crossed Baton</li>
+<li>Crossed bundles</li>
 <li>Feathered Shield</li>
 <li>Jaguar Tlaloc</li>
 <li>Macaw</li>

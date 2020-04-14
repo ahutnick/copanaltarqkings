@@ -36,6 +36,7 @@ The Paddler Gods like in <a href="{{site.baseurl}}/stela-7">Stela 7</a> evoke th
 <li>Paddler Gods</li>
 <li>Serpent bar</li>
 <li>Skull and vegetation</li>
+<li>Spotted Jaguar Headdress</li>
 <li>Sun God / Yax K'uk Mo'</li>
 </ul>
 

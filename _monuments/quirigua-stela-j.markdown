@@ -36,7 +36,7 @@ This stela understandably represents the rebirth of the city as a major power th
 <li>Centipede</li>
 <li>Chaak</li>
 <li>Creation Stones</li>
-<li>Crossed band glyph</li>
+<li>Crossed bands</li>
 <li>K'awiil</li>
 <li>Paddler Gods?</li>
 <li>Sak Pectoral</li>

@@ -16,7 +16,7 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>Fash, William L., Barbara W. Fash, and Karla L. Davis-Salazar. 2004.
     "Setting the Stage: Origins of the Hieroglyphic Stairway on the Great Period Ending." In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 65-84. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Fasquelle, Ricardo Agurcia. 2004. "Rosalila, Temple of the Sun-King". In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 101-112. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
-<li>Grube, Nikolai. 1990. “Copan Note 68: A Reference to Water-Lily Jaguar on Stela 16” In <cite>Copan Notes, The</cite>. Caracol: Copán Mosaics Project.</li>
+<li>Grube, Nikolai. 1990. “Copan Note 68: A Reference to Water-Lily Jaguar on Stela 16” In <cite>Copan Notes, The</cite>, 1-5. Caracol: Copán Mosaics Project.</li>
 <li>Grube, Nikolai and Linda Schele. 1988. “Copan Note 43: A Quadrant Tree at Copan” In <cite>Copan Notes, The</cite>, 301-304. Austin, TX: Copan Mosaic Project.</li>
 <li>Herring, Adam. 2005. “A Borderland Colloquy: Altar Q, Copán, Honduras.” <cite>Art Bulletin, The</cite> 87(2): 194–229.</li>
 <li>Houston, Stephen, Barbara Fash, and David Stuart. 2014-2015. "Masterful Hands: Morelli and the Maya on the Hieroglyphic Stairway, Copan, Honduras." <cite>Res: Anthropology and Aesthetics</cite>, 65-66(1), 15-36.</li>
@@ -41,9 +41,11 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>Schele, Linda and David Stuart. “Copan Note 14: Butz-Chan, the 11th Successor of the Yax-K’uk-Mo’ Lineage” In <cite>The Copan Notes</cite>. Austin, TX: Copan Mosaic Project, 1986. pp 47 - 56</li>
 <li>Sdouz, Gert. 2015. <cite>Altar Q Copan Honduras: A tour through the illustrations of one of the Maya’s most interesting monuments</cite>. Vienna: Wien.</li>
 <li>Stone, Andrea and Marc Zender. 2011. <cite>Reading Maya Art: A Hieroglyphic Guide to Ancient Maya Painting and Sculpture</cite>. London: Thames and Hudson.</li>
+<li>Stuart, David. 1986. “Copan Note 18: The Step Inscription of Temple 22 at Copan” In <cite>Copan Notes, The</cite>, 111-114. Austin, TX: Copan Mosaic Project.</li>
 <li>Stuart, David. 2004. "The Beginnings of the Copan Dynasty: A Review of the Hieroglyphic and Historical Evidence" In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 215-248. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Stuart, David, Nikolai Grube, Linda Schele, and Floyd Lounsbury. 1989.
     “Copan Note 56: Stela 63, A New Monument from Copan”. In <cite>The Copan Notes</cite>, 1-8. Austin, TX: Copan Mosaic Project</li>
 <li>Taube, Karl. 2004. "Structure 10L-16 and Its Early Classic Antecedents: Fire and the Evocation and Resurrection of K'inich Yax K'uk' Mo'". In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 265-296. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
-<li>Taylor, Dicey. 1978. “The Cauac Monster,” In <cite>Tercera Mesa Redonda de Palenque</cite>, edited by Merle Greene Robertson and Donnan C. Jeffers, 79-90. Monterrey: Pre-Columbian Art Research Center, 1978).</li>
+<li>Taube, Karl Andreas. [1992]2018. In <cite>Studies in Ancient Mesoamerican Art and Architecture: Selected Works</cite>, 174–203. San Francisco: Precolumbia Mesoweb Press.</li>
+<li>Taylor, Dicey. 1978. “The Cauac Monster,” In <cite>Tercera Mesa Redonda de Palenque</cite>, edited by Merle Greene Robertson and Donnan C. Jeffers, 79-90. Monterrey: Pre-Columbian Art Research Center.</li>
 <li>Traxler, Loa P. 2004. "Redesigning Copan: Early Architecture of the Polity Center." In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 53-64. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>

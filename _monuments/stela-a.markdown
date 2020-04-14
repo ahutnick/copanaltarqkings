@@ -18,11 +18,11 @@ Erected by <a href="{{site.baseurl}}/waxaklajuun-ubaah-k'awiil">Waxaklajuun Ubaa
 
 Stela A is a Type IV stela with three sides of text and one figural side (Fash 2004, 259). The monument was carved at over eleven and a half feet tall in <a href="{{site.baseurl}}/waxaklajuun-ubaah-k'awiil">Waxaklajuun Ubaah K'awiil</a>'s signature high relief style (Baudez 1994, 19). Notably, this stela is one of the few today with a surviving face (Fash 2011, 58).
 
-On the eastern side of the stela, <a href="{{site.baseurl}}/waxaklajuun-ubaah-k'awiil">Waxaklajuun Ubaah K'awiil</a> stands facing front in a tall cylindrical headress comprised of three braids woven into a mat adorned with ribbons (Baudez 1994, 19). Feathers may be attached to the headdress, and a serpent head surrounds the braids. A skeletal serpent appears on either side of the headdress with a k'in sign on its forehead, filed incisors, and wrinkles. The king wears large simple earflares, and his hair falls behind his ears. A skull with vegetation sits above the king, surrounded by snakes. His wristlets and anklets depict lancets in the form of serpent heads with three braids which were used in auto-sacrifice. Bird masks adorn his knees. Staffs surround his legs which end in serpent heads. From the head on the left emerges a being with a k'in sign on its forehead. From the head on the right emerges a being evoking the skull with vegetation motif (Baudez 1994, 23).  
+On the eastern side of the stela, <a href="{{site.baseurl}}/waxaklajuun-ubaah-k'awiil">Waxaklajuun Ubaah K'awiil</a> stands facing front in a tall cylindrical headress comprised of three braids woven into a mat adorned with ribbons (Baudez 1994, 19). Feathers may be attached to the headdress, and a serpent head surrounds the braids. A skeletal serpent appears on either side of the headdress with a k'in sign on its forehead, filed incisors, and wrinkles. The king wears large simple earflares, and his hair falls behind his ears. A skull with vegetation sits above the king, surrounded by snakes. His wristlets and anklets depict lancets in the form of serpent heads with three braids. Bird masks adorn his knees. Staffs surround his legs which end in serpent heads. From the head on the left emerges a being with a k'in sign on its forehead. From the head on the right emerges a being evoking the skull with vegetation motif (Baudez 1994, 23). In his hands he carries the double headed centipede bar (Martin and Grube 2008, 204).   
 
 This stela evokes rulership motifs through its use of the mat headdress, serpent bars emerging from braided serpents surrounding the king, and potentially the skull with vegetation motif appearing twice in this stela. In certain circumstances, the skull with vegetation motif has been used to celebrate accessions (Baudez 1994, 23). The imagery also emphasizes the association between the sun and sacrifice and the ensuing death and rebirth bearing fertility. The skeletal serpents bear solar imagery, and an emerging elongated skull next to the king also forms a part of the witz' glyph. The lancets and ribbons also evoke the bloodletting rituals needed for the sun to rise. The subsequent fertility imagery emerges from the skull and vegetation motifs, both in the skull and vegetation over the king and the skeletal serpent bearing waterlily imagery. This combination of skeletal serpent and waterlilies would also feature heavily in Structure 18.
 
-Interestingly, this stela, like Stela H, honors <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> the eleventh ruler by describing rituals in which bones or relics would be sliced from the dead king's tomb (Fash 2011, 58). This <em>susaj baak</em> ritual had been completed the year prior, and its mention on this stela speaks to the regard for the eleventh ruler (Martin and Grube 2008, 200). One of the verbs used in this description had previously only been found in Palenque's Tablet 14. The term celebrated Chan-Bahlum's departure from Xibalba three haabs and one tzolkin after death and was also used to celebrate ancestors and their spiritual rebirth (Schele and Stuart 1986, 51).
+Interestingly, this stela, like Stela H, honors <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> the eleventh ruler by describing rituals in which bones or relics would be sliced from the dead king's tomb (Fash 2011, 58). This <em>susaj baak</em> ritual had been completed the year prior, and its mention on this stela speaks to the regard for the eleventh ruler (Martin and Grube 2008, 200). One of the verbs used in this description had previously only been found in Palenque's Tablet 14. The term celebrated their king Chan-Bahlum's departure from Xibalba three haabs and one tzolkin after death and was also used to celebrate ancestors and their spiritual rebirth (Schele and Stuart 1986, 51).
 
 The text of Stela A also mentions the Lowland capitals Tikal, Palenque, and Calakmul, assigning each of them a cardinal direction along with Copan (Fash 2011, 59). While the association of Copan with the capitals may seem ambitious, Tikal king Jasaw Chan K'awiil I did inscribe information concerning Copan and Palenque on bones circa 730 (Martin and Grube 2008, 47). Whether <a href="{{site.baseurl}}/waxaklajuun-ubaah-k'awiil"> Waxaklajuun Ubaah K'awiil</a> was noting their arrival in Copan for an event or asserting that Copan was a Maya Lowlands capital on par with these three great cities, the thirteenth ruler certainly used their appearance to his advantage. Stela A has an ambitious rhetorical aim in celebrating a previous king, evoking sacrifice, rulership, and the resulting fertility, and invoking the three most powerful Maya Lowland cities on a stela erected only sixty days after the previous one. True to form, <a href="{{site.baseurl}}/waxaklajuun-ubaah-k'awiil"> Waxaklajuun Ubaah K'awiil</a> delivers in grandeur and abundance.
 
@@ -31,12 +31,15 @@ The text of Stela A also mentions the Lowland capitals Tikal, Palenque, and Cala
 
 #### <strong><a href="{{site.baseurl}}/motif-glossary">Motifs</a></strong>
 <ul>
+<li>Centipede</li>
 <li>Lancet wristband</li>
 <li>Mat</li>
 <li>Serpent Bar</li>
-<li>Solar Deities</li>
-<li>Skeletal snake and waterlily</li>
+<li>Skeletal snake</li>
 <li>Skull and vegetation</li>
+<li>Solar Deities</li>
+<li>Waterlily</li>
+<li>Witz'</li>
 </ul>
 
 #### <strong>See Also:</strong>
