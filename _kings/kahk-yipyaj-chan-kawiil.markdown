@@ -3,7 +3,8 @@ layout: default
 title: K'ahk' Yipyaj Chan K'awiil
 permalink: /kahk-yipyaj-chan-kawiil/
 ruler: 15
-image: /images/kings/r15_zwegers.jpg
+aqorder: 4
+image: /images/kings/r15-zwegers.jpg
 ---
 
 # Ruler 15: K'ahk' Yipyaj Chan K'awiil

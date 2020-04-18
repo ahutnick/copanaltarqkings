@@ -3,12 +3,13 @@ layout: default
 title: K'inich Yax Kuk Mo
 permalink: /yax-kuk-mo/
 ruler: 1
-image: /images/kings/r1_zwegers.jpg
+aqorder: 2
+image: /images/kings/r1-zwegers.jpg
 ---
 
 # Ruler 1: K'inich Yax K'uk Mo'
 
-#### <strong>AKA: Ajaw K'inich K'uk Mo', Ajaw K'uk' Mo' The Founder
+#### <strong>AKA:</strong> Ajaw K'inich K'uk Mo', Ajaw K'uk' Mo' The Founder
 #### <strong>Reign:</strong> 426 - 437
 #### <strong>Preceded by:</strong> Smoke Codex God K (previous lineage)
 #### <strong>Succeeded by:</strong> <a href="{{site.baseurl}}/popol-hol">Popol Hol</a>

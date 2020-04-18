@@ -3,7 +3,8 @@ layout: default
 title: Moon Jaguar
 permalink: /moon-jaguar/
 ruler: 10
-image: /images/kings/r10_tapu.jpg
+aqorder: 9
+image: /images/kings/r10-erickson.jpg
 ---
 
 # Ruler 10: Moon Jaguar

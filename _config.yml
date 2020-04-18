@@ -23,8 +23,6 @@ collections:
         sort_by: ruler
     structures:
         output: true
-    ukit:
-        output: true
 # Build settings
 theme: jekyll-theme-minimal
 plugins:

@@ -3,7 +3,8 @@ layout: default
 title: Ruler 9
 permalink: /ruler-9/
 ruler: 9
-image: /images/kings/r9_tapu.jpg
+aqorder: 10
+image: /images/kings/r9-erickson.jpg
 ---
 
 # Ruler 9

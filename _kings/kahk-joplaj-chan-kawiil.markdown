@@ -3,7 +3,8 @@ layout: default
 title: K'ahk' Joplaj Chan K'awiil
 permalink: /kahk-joplaj-chan-kawiil/
 ruler: 14
-image: /images/kings/r14_hjpd.jpg
+aqorder: 5
+image: /images/kings/r14-erickson.jpg
 ---
 # Ruler 14: K'ahk' Joplaj Chan K'awiil
 

@@ -3,7 +3,8 @@ layout: default
 title: Ruler 6
 permalink: /ruler-6/
 ruler: 6
-image: /images/kings/r6_vega.jpg
+aqorder: 13
+image: /images/kings/r6-erickson.jpg
 ---
 
 # Ruler 6

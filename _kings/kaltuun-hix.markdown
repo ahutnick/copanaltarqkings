@@ -3,7 +3,8 @@ layout: default
 title: K'altuun Hix
 permalink: /kaltuun-hix/
 ruler: 4
-image: /images/kings/r4_vega.jpg
+aqorder: 15
+image: /images/kings/r4-erickson.jpg
 ---
 
 # Ruler 4: K'altuun Hix

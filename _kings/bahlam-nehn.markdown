@@ -3,7 +3,8 @@ layout: default
 title: Bahlam Nehn
 permalink: /bahlam-nehn/
 ruler: 7
-image: /images/kings/r7_tapu.jpg
+aqorder: 12
+image: /images/kings/r7-erickson.jpg
 ---
 
 # Ruler 7: Bahlam Nehn

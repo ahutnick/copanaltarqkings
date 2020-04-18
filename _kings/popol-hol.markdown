@@ -3,7 +3,8 @@ layout: default
 title: K'inich Popol Hol
 permalink: /popol-hol/
 ruler: 2
-image: /images/kings/r2_zwegers.jpg
+aqorder: 1
+image: /images/kings/r2-zwegers.jpg
 ---
 
 # Ruler 2: K'inich Popol Hol

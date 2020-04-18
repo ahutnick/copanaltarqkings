@@ -3,7 +3,8 @@ layout: default
 title: Yax Pasaj Chan Yopaat
 permalink: /yax-pasaj-chan-yopaat/
 ruler: 16
-image: /images/kings/r16_zwegers.jpg
+aqorder: 3
+image: /images/kings/r16-zwegers.jpg
 ---
 
 # Ruler 16: Yax Pasaj Chan Yopaat
@@ -34,7 +35,7 @@ image: /images/kings/r16_zwegers.jpg
 <li>Temple 18 - doorjamb, incensarios, and wall texts</li>
 <li>Temple 18 - tomb</li>
 <li>Temple 21A - bench</li>
-<li></a href="{{site.baseurl}}/structure-16">Temple 16</a></li>
+<li><a href="{{site.baseurl}}/structure-16">Temple 16</a></li>
 <li>9N-82 bench</li>
 <li><a href="{{site.baseurl}}/altar-l">Altar L</a></li>
 </ul>

@@ -3,7 +3,8 @@ layout: default
 title: Waxaklajuun Ubaah K'awiil
 permalink: /waxaklajuun-ubaah-kawiil/
 ruler: 13
-image: /images/kings/r13_hjpd.jpg
+aqorder: 6
+image: /images/kings/r13-erickson.jpg
 ---
 
 # Ruler 13: Waxaklajuun Ubaah K'awiil

@@ -3,7 +3,8 @@ layout: default
 title: Wi' Yohl K'inich
 permalink: /wi-yohl-kinich/
 ruler: 8
-image: /images/kings/r8_tapu.jpg
+aqorder: 11
+image: /images/kings/r8-erickson.jpg
 ---
 
 # Ruler 8: Wi' Yohl K'inich

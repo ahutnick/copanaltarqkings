@@ -3,7 +3,8 @@ layout: default
 title: K'ahk Uti' Witz' K'awiil
 permalink: /kahk-uti-witz-kawiil/
 ruler: 12
-image: /images/kings/r12_hjpd.jpg
+aqorder: 7
+image: /images/kings/r12-erickson.jpg
 ---
 
 # Ruler 12: K'ahk Uti' Witz' K'awiil

@@ -3,7 +3,8 @@ layout: default
 title: Butz' Chan
 permalink: /butz-chan/
 ruler: 11
-image: /images/kings/r11_hjpd.jpg
+aqorder: 8
+image: /images/kings/r11-erickson.jpg
 ---
 
 # Ruler 11: Butz' Chan
