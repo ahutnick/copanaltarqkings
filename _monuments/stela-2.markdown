@@ -11,6 +11,9 @@ permalink: /stela-2/
 #### <strong>King</strong>: 12
 #### <strong>Measurements</strong>: 9.65 feet x 2.55 at base, x 3 feet at top. relief roughly .4 feet deep
 
+<img src="{{site.baseurl}}/images/stela-2-profile.JPG">
+<h6><em>Photo Courtesy of Dr. Clark Erickson</em></h6>
+
 This stela was erected by <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a> for the 9.11.0.0.0 katun ending. Notably, this stela bears a considerable resemblance to <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>'s <a href="{{site.baseurl}}/stela-p">Stela P</a> with its low relief and Paddler God heads emerging from the flexible serpent bar (Fash 2011, 57). This stela also is a Type IV with three sides carved with glyphs and one side carved figurally (Fash 2004, 259).
 
 Though the figure on the stela is seriously eroded, particularly at the base, he stands dressed for the period ending ritual. Fittingly, he wears the spotted jaguar headdress suitable for resurrecting the jaguar deity as well as the loincloth, belt, celts, and tinklers suitable for ritual dress (Fash 2011, 57). The jaguar helmet differs from <a href="{{site.baseurl}}/stela-p">Stela P</a>'s bird headdress, perhaps to emphasize this particular ritual. Both stelae feature similar ritual garb however, also including youth masks, circular shields, serpent head wristlets and anklets, and circular shields (Baudez 1994, 94, 111). In addition, both stelae position their kings in front of a jaguar pelt background, symbolizing warfare or wealth (Stone and Zender 2011, 195). Stela 2 is also surrounded by braid and tassel and serpent motifs (Baudez 1994, 111).  

@@ -11,6 +11,10 @@ permalink: /stela-p/
 #### <strong>Rulers:</strong> 11, 1
 #### <strong>Measurements:</strong> 10.5 feet x 2.13 x 1.73 feet feet at base, 10.5 feet x 2.85 feet x 1.73 feet at top, cribbing 0.98 feet tall
 
+<img src="{{site.baseurl}}/images/stela-p-erickson.jpg">
+
+##### <em>Photo Courtesy of Dr. Clark Erickson</em> 
+
 <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> erected his second stela ten years after <a href="{{site.baseurl}}/stela-7">Stela 7</a> to celebrate tha lahuntun or ten year period (Fash 2011, 55). Like its predecessor, Stela P is a Type IV stela with text on three sides and a figure on the fourth and featured the Paddler Gods emerging from the serpent bar (Fash 2004, 259; Fash 2011, 55). Unlike its predecessor, which was constructed in high relief and in the village, Stela P was constructed in low relief and was found in front of <a href="{{site.baseurl}}/structure-16">Structure 10L-16</a> (Fash 2011, 55; Baudez 1994, 92). While some debate exists as to whether the stela was originally erected here, it would have been positioned in front of the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a> and even featured a similar style (Fasquelle 2004, 102).
 
 The stela itself was erected on a prismatic chamber containing various works of dishes and pottery including incensarios with cacao pod embellishments said to be in better condition than the caches beneath Stelae <a href="{{site.baseurl}}/stela-m">M</a> and <a href="{{site.baseurl}}/stela-n">N</a> during the fifteenth king <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a>'s reign (Baudez 1994, 94). The cacao embellishments particularly evoke sacrality given cacao's involvement in the Maize God's resurrection as well as the defeat of Underworld God L by the Hero Twins (Stone and Zender 2011, 219).

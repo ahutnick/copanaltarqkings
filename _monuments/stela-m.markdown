@@ -11,7 +11,12 @@ permalink: /stela-m/
 #### <strong>Rulers:</strong> 15
 #### <strong>Measurements:</strong> 11 feet x 3.6 feet x 2.66 feet, cribbing 6.89 feet x 6.3 feet x 1.5 feet
 
-** image **
+<p float="left">
+<img src="{{site.baseurl}}/images/stela-m-profile.JPG">
+<img src="{{site.baseurl}}/images/stela-m-front-e.JPG">
+<img src="{{site.baseurl}}/images/stela-m-back.JPG">
+</p>
+###### <em>Photos (Edited) Courtesy of Dr. Clark Erickson</em>
 
 Stela M is the first stela in Copan since <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s death at the hands of Quirigua nearly twenty years prior (Fash 1991, 139). The thirteenth ruler's successor, <a href="{{site.baseurl}}/kahk-joplaj-chan-kawiil">K'ahk' Joplaj Chan K'kawiil</a> was known for not having built any stelae, although he may have commissioned a structural renovation for his more local government. Considering the level of high relief and the fact that this stela and its associated altar marked the dedication of the second phase <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a>, <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a> certainly departed from this strategy in favor of ostentation and large-scale efforts to rekindle national pride (Baudez 1994, 74).
 
@@ -22,6 +27,21 @@ Further supporting this idea, in the cruciform cache under the stela's platform 
 The figure - <a href="{{site.baseurl}}/kahk-yipyaj-chan-yopaat">K'ahk' Yipyaj Chan Yopaat</a> stands facing forward, carrying the serpent bar, from which God K heads emerge bearing the stone glyph and the torch or "axe and smoke" as Baudez calls it in their forehead, evoking the "Mannekin Scepter" or the "k'awiil" - the symbol of royal authority (Baudez 1994, 74). The k'awiil in the forehead specifically may symbolize a king's apotheosis as the God K, patron of kings (Fash 1991, 177). <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a> had seized this bar to begin his dynasty roughly three hundred years prior.
 
 The figure bears a crocodile helmet on his head, lancets on his wristlet, and the solar jaguar snakes and eyes on his loincloth (Baudez 1994, 74) Interestingly, the crocodile head has shells instead of ears, which feature blackened U's. This may have been a reference to the thirteenth ruler's name, which has been translated as "Smoke Shell". For another instance of a literal reference to <a href="{{site.baseurl}}/kahk-yipyaj-chan-yopaat">K'ahk' Yipyaj Chan Yopaat</a>, see the <a href="{{site.baseurl}}/structure-26">temple</a> for the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a> (Fash 1991, 149). On his belt are panels of the crossed bands glyph associated with the Founder. The figure is surrounded by a number of grotesques. The stela also features serpents against a feathered background with rosettes and braid and tassel embellishments (Baudez 1994, 74-76).
+
+<br>
+
+### <strong>The Altar</strong>
+
+<p class="float">
+<img src="{{site.baseurl}}/images/stela-m-altar-south.jpg">
+<img src="{{site.baseurl}}/images/stela-m-altar-east.jpg">
+<img src="{{site.baseurl}}/images/stela-m-altar-west.jpg">
+<img src="{{site.baseurl}}/images/stela-m-altar-north.jpg">
+</p>
+
+##### <strong><em>From the top left to right, South side, East side, West side, North side</em></strong>
+###### <em>Photos (Edited) Courtesy of Dr. Clark Erickson</em>
+
 
 The associated altar also fits in with the elaborate carving strategy as a Witz zoomorph, or the cave entrance to the underworld (Baudez 1994, 76; Fasquelle 2004, 109). The altar is comprised of three pieces, with the base forming the body and two heads that fit into the north and south alcoves. The body has three Witz masks on the top, east, and west and three sided deer feet made of shells (Baudez 1994, 77).
 

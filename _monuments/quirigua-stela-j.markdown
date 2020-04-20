@@ -11,6 +11,15 @@ permalink: /Quirigua Stela J/
 #### <strong>Ruler</strong>: 13
 #### <strong>Measurements</strong>: 16.4 feet high, base 21.3 feet x 21.3 feet
 
+<p class="float">
+<img src="{{site.baseurl}}/images/q-stela-j-mennerich.jpg">
+<img src="{{site.baseurl}}/images/q-stela-j-jarvis.jpg">
+</p>
+
+##### <strong><em>Quirigua Stela J front and side</em></strong>
+
+##### <em>Left - Daniel M. <cite>Quiriguá GCA - Stela J</cite>, 2012, photograph. Flickr. Right - Dennis J. <cite>Guatemala-0612</cite>, 2007, photograph. Wikimedia Commons.</em>
+
 Quirigua's Stela J was one of K'ahk' Tiliw Chan Yopaat's several monuments discussing the fall of <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>. It was erected at the completion of the Northern Platform - evoking the entrance to the Underworld in the Great Plaza - the location where the thirteenth ruler was killed (Martin and Grube 2008, 221; Looper 2003, 82-83, 85). This particular stela's dedication date would occur eighteen years after <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s execution, allowing the city time to reap the benefits of their victory and develop their monumental program accordingly (Martin and Grube 2008, 205).
 
 This stela is tall at 16.4 feet and is constructed in the wraparound style, defined as Type VI (Fash 2004, 259). Unlike previous wraparound stelae at Quirigua, Stela J contains side panels of text which are narratively more complex (Looper 2003, 101). On the wraparound, the king stands in shallow relief, wearing a headdress made of three masks topped with a bird god evocative of Tlaloc-Venus (Looper 2003, 107). In keeping with the ritual he wears heavy tinklers, knee bands, and a collar made from jade and shell. He wears a Sak - or Chaak - pectoral and a God C apron while surrounded by serpent heads (Looper 2003, 106). He has a Jaguar shield that may or may not depict the Jaguar Paddler God, complete with cruller (Looper 2003, 103). Interestingly, the possible god appears on the shield rather than out of the serpent bar like in Copan Stelae <a href="{{site.baseurl}}/stela-7">7</a>, <a href="{{site.baseurl}}/stela-p">P</a>, and <a href="{{site.baseurl}}/stela-2">2</a>. Instead, staffs emerge from the serpent bar, similar to the more recent Copan <a href="{{site.baseurl}}/stela-a">Stela A</a> (Looper 2003, 109).
@@ -41,7 +50,7 @@ This stela understandably represents the rebirth of the city as a major power th
 <li>Paddler Gods?</li>
 <li>Sak Pectoral</li>
 <li>Serpent Heads</li>
-<li>Skull with Vegetation?</a>
+<li>Skull with Vegetation</li>
 <li>Tlaloc-Venus</li>
 <li>Vision Serpent</li>
 </ul>
@@ -65,4 +74,10 @@ This stela understandably represents the rebirth of the city as a major power th
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
 <li>Schele, Linda. 1986. “Copan Note 8: The Founders of Lineages at Copan and Other Maya Sites” In <cite>Copan Notes, The</cite>, 1-21. Austin, TX: Copan Mosaic Project.</li>
 <li>Stone, Andrea and Marc Zender. 2011. <cite>Reading Maya Art: A Hieroglyphic Guide to Ancient Maya Painting and Sculpture</cite>. London: Thames and Hudson.</li>
+</ul>
+
+#### <strong>Photographs</strong>:
+<ul>
+<li><a href="https://www.flickr.com/photos/danielmennerich/8463997691/in/photolist-dTWcCF-2ibsDx1-dDtPeu-2ibvZTQ-2ibv2AP-2ibv1aC-2ibw13H-2hToZEP-2hTq333-4nBokD-8M6Leb-7SwsSw-7StaLr-wKydRQ-7Swpy5-7SwuWU-8M3H5e-7StcQa-7St9yV-w69DpN-owmpC8-vuZ7pK-wKFMVk-2dCKgKs-wKyTd7-w69TES-7SwwZs-vsFzYb-Hk2o3R-7Sww2W-7SvPaq-7SvRUj-7SDFUn-7SvQtL-7SDHP4-uxYwUC-vdpk6f-vurKEh-Hk2uGx-oeSNQr-otPLm9-odeVWy-ouwGsy-ouJLtg-owug7K-ouwnz3-od6HYG-ouySpw"><cite>Quiriguá GCA - Stela J</cite></a>, by Daniel Mennerich, is licensed by <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC-BY-NC-ND 2.0.</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_Guatemala-0612.jpg"><cite>Guatemala-0612</cite></a>, by Dennis Jarvis, is licensed by <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-by-SA 2.0.</a></li>
 </ul>

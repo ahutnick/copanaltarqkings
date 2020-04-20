@@ -11,6 +11,10 @@ permalink: /stela-e/
 #### <strong>Kings</strong>: 13?, 12?, 7
 #### <strong>Measurements</strong>: 11.26 feet x 2.03 feet x 1.44 feet, maximum relief depth 0.82 feet
 
+<img src="{{site.baseurl}}/images/stela-e-macleod.jpg">
+
+###### Gus M. <cite>Stela E Copan</cite>, 2008, photograph. Flickr.
+
 The commissioner of this stela has been in doubt for much of its study. Due to the numerous mentions of <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> and the 9.5.10.0.0 period ending, the seventh king seemed a likely candidate (Schele and Schele 1986, 69). However, later dates were found on both the altar - believed to have been the 9.9.5.0.0 hotun ending between <a href="{{site.baseurl}}/stela-7">Stela 7</a> and <a href="{{site.baseurl}}/stela-p">Stela P</a> - and the stela itself with one possible date during the reign of twelfth ruler <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk Uti' Witz' K'awiil</a> (Schele 1987, 177; Baudez 1991, 46). The absence of a Lord of Night as well as the current state of preservation of the date glyphs do obscure exact textual dating of the object (Schele 1987, 178).
 
 More recently, thirteenth king <a href="{{site.baseurl}}/waxaklajuun=ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> has also been proposed as the commissioner (Martin and Grube 2008, 204). Given the stela's ostentation, high relief, and height, the stela very well could have been his. Yet, the stela is also attributed to his predecessor who also worked with similar styles (Fash 2011, 55).
@@ -35,7 +39,8 @@ Unfortunately, lack of definite time and placement prevents us from discussing a
 <li>Knotted Serpent</li>
 <li>Paddler Gods?</li>
 <li>Pax Jaguar</li>
-<li>Rope / Braid and Tassel</li>
+<li>Rope</li>
+<li>Braid and Tassel</li>
 <li>Serpent Bar</li>
 <li>Skull and vegetation</li>
 <li>Witz'</li>
@@ -56,9 +61,16 @@ Unfortunately, lack of definite time and placement prevents us from discussing a
 <li>Baudez, Claude-François. 1994. <cite>Maya Sculpture of Copán: The Iconography</cite>. Norman: University of Oklahoma Press.</li>
 <li>Fash, Barbara W. 2011. <cite>Copan Sculpture Museum, The</cite>. Cambridge:Peabody Museum Press.</li>
 <li>Fash, Barbara W. 2004. “Early Classic Sculptural Development at Copan.” In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 249-264. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
-<li>Grube, Nikolai. 1990. “Copan Note 68: A Reference to Water-Lily Jaguar on Stela 16” In <cite>Copan Notes, The<cite>. Caracol: Copán Mosaics Project.</li>
+<li>Grube, Nikolai. 1990. “Copan Note 68: A Reference to Water-Lily Jaguar on Stela 16” In <cite>Copan Notes, The</cite>. Caracol: Copán Mosaics Project.</li>
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
 <li>Schele, Linda. 1986. “Copan Note 8: The Founders of Lineages at Copan and Other Maya Sites” In <cite>Copan Notes, The</cite>, 1-21. Austin, TX: Copan Mosaic Project.</li>
 <li>Schele, Linda and David Schele. 1986. “Copan Note 16: Waterlily Jaguar, the Seventh Successor of the Lineage of Yax-K’uk’-Mo’” In <cite>Copan Notes, The</cite>, 66-78. Austin, TX: Copan Mosaic Project.</li>
 <li>Schele, Linda. 1987. “Copan Note 25: Some Ideas of the Protagonist and Dating of Stela E”. In <cite>Copan Notes</cite>, 177-184. Austin, TX: Copan Mosaic Project.</li>
 <li>Stuart, David. 2004. "The Beginnings of the Copan Dynasty: A Review of the Hieroglyphic and Historical Evidence" In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 215-248. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
+</ul>
+
+#### <strong>Photograph</strong>:
+<ul>
+<li><a href="https://www.flickr.com/photos/17137968@N00/3075019867/in/photolist-yaCdKE-HDpvZ-q2MjEX-bXpTpJ-dt6qCF-x2quvC-4nFrQh-5FJhgV-CGNHsc-4nBgDV-bnUBSw-CGFPpN-96XT3B-9heVQK-8bfyVj-99RMbq-9hBwWt-7HbBu4-oeSNhn-qhpSqd-5Febes-6bdgzs-od7UCc-8M6rus-vsFjLs-vsFzYb-vuZ876-owaiZ8-ow2jGT-ryFStU-Hk2o3R-vdpHx9-vurLdb-x8sNcD-eJh384-Hk2uGx-x81eWT-odfXHz-odf1o8-ouovzY"><cite>Copan Stela E</cite></a>, by Gus MacLeod, is licensed under
+<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a></li>
+</ul>

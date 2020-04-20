@@ -10,7 +10,9 @@ permalink: /stela-63/
 #### <strong>Dates:</strong> 9.0.0.0.0 8 Ajaw 14 Kej / December 9, 435
 #### <strong>Rulers:</strong> 1, 2, 4
 
-<img src="{{site.baseurl}}/images/stela63-wikimedia.png">
+<img src="{{site.baseurl}}/images/stela-63-erickson.jpg">
+
+##### Photo Courtesy of Dr. Clark Erickson
 
 Stela 63 was erected by <a href="{{site.baseurl}}/popol-hol">Popol Hol</a> to celebrate his father <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo’</a>s witness of the b’aktun ending on 9.0.0.0.0 8 Ajaw 14 Kej, or December 9, 435 (Fash 2011, 105; Fash, Fash, and Davis-Salazar, 76). The stela was found in the Papagayo structure in <a href="{{site.baseurl}}/structure-26">10L-26</a>. This structure had replaced the previous Motmot level which had housed the aptly named <a href="{{site.baseurl}}/motmot-marker">Motmot marker</a>. This marker had also commemorated the b’aktun ending and had placed the father and son together, so this stela may have been considered a replacement monument for the marker. The stela in fact would remain visible until the thirteenth ruler <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> built over the structure (Fash, Fash, and Davis-Salazar 2004, 78; Martin and Grube 2008, 202) Even after this portion of the building was destroyed, <a href="{{site.baseurl}}/stela-j">Stela J</a> would take Stela 63's place as the 9.0.0.0.0 b’aktun marker, emphasizing both the importance of the date and of <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a>.  
 

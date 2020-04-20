@@ -11,10 +11,8 @@ permalink: /quirigua-altar-l/
 #### <strong>Ruler:</strong> 12
 #### <strong>Measurements:</strong>  3.28 feet diameter, .82 feet thick
 
-<img src="{{site.baseurl}}/images/quirigua-altarL-wikimedia.png">
+<img src="{{site.baseurl}}/images/quirigua-altarL-wikimedia.png" class="center">
 ###### José C. <cite>Altar L de Quirigua</cite>, December 2017, photograph. Wikimedia Commons.
-
-<br>
 
 During <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk Uti' Witz' K'awiil</a>'s reign, Quirigua erected this fascinating altar to celebrate the k'atun ending (Martin and Grube 2008, 217). While the altar would be found in the Acropolis, its original location has yet to be conclusively determined. This rhyolite circular altar features the then current king of Quirigua K'awiil Yopaat facing right and sitting cross-legged on two glyphs (Looper 2003, 51). Interestingly, this altar is the only record we have of this king. His succession number is not even known, and he is the only king recorded between the third ruler in 480 and K'ahk' Tiliw Chan Yopaat in 724 (Martin and Grube 2008, 216-218). The altar is carved in the Great Ajaw style, in which a large depiction of the ruler indicates the Ajaw day name (Looper 2003, 50-51).
 
