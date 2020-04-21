@@ -6,7 +6,11 @@ permalink: /structure-16/
 
 # Structure 16
 
-** image **
+<img src="{{site.baseurl}}/images/10l-16.jpg">
+
+##### <strong><em>Temple 16, Altar Q in Front</em></strong>
+
+##### <em>Photograph Courtesy of Dr. Clark Erickson</em>
 
 This Temple is one of the three structures, along with <a href="{{site.baseurl}}/structure-26">Structure 26</a> and Structure 11, known to have existed since the beginning of the <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo</a> lineage if not beforehand (Fash 2011, 36). In two of its earliest incarnations it contains the tombs of  and potentially his widow. Throughout its liftetime it has remained dedicated to the Founder. Fittingly, Structure 10L-16 is Copan's tallest building, standing at twenty meters above the West Court (Taube 2004, 266). The structure had several editions over the dynasty, below is a general overview of the more discussed iterations.
 
@@ -36,11 +40,13 @@ Shortly after his father's burial, Popol Hol covered the Hunal structure with a 
 Yax K'uk' Mo' appears imposed in the mask of the Maya Sun God K’inich Tajal Wayib, with diagonal torches coming out of his head (Martin and Grube 2008, 195; Taube 2004, 277). The particular headdress depicts a Mexican year sign from Teotihuacan and Xochicalco imagery, combining Maya and Central Mexican imagery to establish the Founder's divinity (Taube 2004, 277). Though the structure was short-lived, worship of the Founder would continue to expand.
 
 ## Margarita
-#### <strong>Dates:</strong>
 #### <strong>Rulers:</strong> 2, 1
 
-** PM Image **
-###### Courtesy of the Penn Museum
+<img src="{{site.baseurl}}/images/margarita.jpg">
+
+##### <strong><em>Reproduction Margarita Temple Panel, Penn Museum</em></strong>
+
+##### <em>Photo Taken by Author</em>
 
 Shortly after Yehnal was completed, Popol Hol constructed the Margarita Structure, which is believed to be his mother's burial place (Martin and Grube 2008, 195). This structure is also built in the Lowlands style with triple doorways and stucco exterior as well as the body laying in a supine position on a stone bier (Price et al. 2010).
 
@@ -54,6 +60,15 @@ Unlike in the Hunal tomb, the "Lady in Red" - no name for the queen has yet been
 ## Rosalila
 #### <strong>Dates:</strong> circa 550, 9.6.17.3.2 3 Ik’ 0 Kumuk’u - February 2, 571, 623
 #### <strong>Rulers:</strong> 8, 10, 11, 1
+
+<p class="float">
+<img src="{{site.baseurl}}/images/rosalila-diag.jpg">
+<img src="{{site.baseurl}}/images/rosalila-top.jpg">
+<img src="{{site.baseurl}}/images/rosalila-front.jpg">
+<img src="{{site.baseurl}}/images/rosalila-mask.jpg">
+</p>
+
+##### <em>Photographs Courtesy of Dr. Clark Erickson</em>
 
 According to one of its hieroglyphic stairs, this grand Temple was constructed by <a href="{{site.baseurl}}/wi-yohl-kinich/">Wi Yohl K'inich</a> towards the end of his reign (Martin and Grube 2008, 198). The sixth version of 10L-16, this temple was vibrantly painted red, green, yellow, and white. The temple was built in three levels, each of which face westward in the direction of the Underworld (Fasquelle 2004, 102). The stairway had been added by <a href="{{site.baseurl}}/moon-jaguar">Moon Jaguar</a> according to the date 9.6.17.3.2 3 Ik’ 0 Kumuk’u, or February 2, 571. Eleventh ruler <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> would later add <a href="{{site.baseurl}}/stela-p">Stela P</a> at the base of these stairs in 623 (Fasquelle 2004, 103).
 
@@ -70,7 +85,6 @@ For this ritual, one space in the first floor is recognized as a place for calli
 Rosalila was the last building project in Copan to feature large-scale stucco work. After this project, buildings and monuments were constructed out of stone, primarily volcanic tuff from the nearby quarries. Two reasons exist for this phenomenon: first, stucco is less durable than stone carving and would require more upkeep. Once Copan had developed their stone carving abilities, they would still be able to achieve the same effect as stucco by whitewashing and painting the stone after completion (Fash 2011, 43). The second reason is that creating stucco was very resource intensive, involving a great amount of lumber to render down the limestone. This practice led to the deforestation of the Valley, which would later play a great role in Copan's downfall (Martin and Grube 2008, 198). The shift was mainly out of necessity to spare the remaining resources. Stucco would still be used in roofing and flooring, but the change would result in greater sustainability (Fash 2011, 44).
 
 ## Purpura
-#### <strong>Dates:</strong>
 #### <strong>Ruler:</strong> 13
 
 Thirteenth king <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> built this structure to ritually bury the Rosalila Temple, taking great pains to inter its predecessor intact (Martin and Grube 2008, 204). The Temple was covered with a ritual coat of white paint before its burial (Fasquelle 2004, 102). Rosalila is the only structure at Copan known to have been entombed so carefully, with even the roof crest remaining untouched (Fash 2011, 38).
@@ -83,7 +97,19 @@ The final addition to Structure 10L-16 was built by sixteenth king <a href="{{si
 
 The building is square in construction, forming a cross oriented with the four directions, similar to many stela crypts.  The building itself is based on the Kan cross and also was built with blocks containing the Kan cross, noting its location as the center (Taube 2004, 266).
 
+<img src="{{site.baseurl}}/images/block-1.jpg">
+
+##### <strong><em>Temple 16 Block 1</em></strong>
+
+##### <em>Photograph Courtesy of Dr. Clark Erickson</em>
+
 Particularly notable about this Temple are the stair blocks or altar / bench structures placed on the stairway along its axis (Taube 2004, 283). The first is a T-shaped rendering of Tlaloc as a skull with a defleshed jaw and Kan cross earrings surrounded by eighteen skulls (Taube 2004, 284-285). This image again invokes the Teotihuacan god as a representation of death, the Underworld, sacrifice, and warfare. Incense would likely have been built upon the altar in ancestor worship, placing the symbol of resurrection atop the Underworld (Taube 2004, 286).
+
+<img src="{{site.baseurl}}/images/block-2.jpg">
+
+##### <strong><em>Temple 16 Block 2</em></strong>
+
+##### <em>Photograph Courtesy of Dr. Clark Erickson</em>
 
 The second block contains another mask portraying <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> as the Sun God, complete with quetzal-macaw headdress. In this case, the mask is surrounded by skeletal centipedes and, similar to the second-level Rosalila mask, contains the Yaxk'in glyph, in this case by fashioning the Sun God's face into the spokes evocative of the yax glyph (Taube 2004, 286-287). In so doing, the mask represents the sun emerging from the Underworld, or the resurrection of the Founder (Taube 2004, 287). The Founder himself appears in the center of a rectangular shield or solar mirror, his left leg raised and foot turned out in the midst of a victory <em>kach</em> dance. The carving is done in a frontal position in low relief. He wears a pectoral comprised of rope and torches resembling <a href="{{site.baseurl}}/altar-q">Altar Q</a>'s k'awiil (Taube 2004, 288).
 

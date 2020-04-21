@@ -20,8 +20,6 @@ image: /images/kings/r8-erickson.jpg
 <li><a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a></li>
 </ul>
 
-** Altar Q Image **
-
 On Altar Q, Wi' Yohl K'inich's name was written in a cursive form, which may have simply been due to allotted space (Martin and Grube 2008, 197).  
 
 Wi' Yohl K'inich was known for his creation of the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a>. This three level structure was the sixth incarnation of <a href="{{site.baseurl}}/structure-16">Structure 16</a> at the center of the Acropolis (Martin and Grube 2008, 198). The Temple itself served as a house of ancestor worship complete with underworld motifs and stations for kings to communicate with their predecessors through autosacrifice (Fasquelle 2004, 109). The structure contained numerous references to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> apotheosized as the Sun God, appearing as an avian sun in various phases (Fash 2011, 43). The temple would last until the reign of the thirteenth king <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>, who would ritually bury it intact under ritual white paint (Martin and Grube 2008, 204; Fasquelle 2004, 102).

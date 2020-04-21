@@ -34,8 +34,6 @@ image: /images/kings/r2-zwegers.jpg
 <li>Ballcourt I</li>
 </ul>
 
-** Altar Q Image **
-
 Popol Hol, second king and son of the foreign Founder <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo</a> and a Copan noblewoman, both had a truly ambitious building program and worked to build his father's legacy. Each of his monuments and structures evoked his father, with whom he may have ruled as co-regent before his death around 437 CE (Fash, Fash, and Davis-Salazar 2004, 72).
 
 Interestingly, Popol Hol's Stela 18 with one figural side and three sides of text was the last figural stela found before the tenth king <a href="{{site.baseurl}}/moon-jaguar">Moon Jaguar</a>'s rule (Fash 2004, 255, 259). Though fragmented today, this stela contains a lashed ladder glyph that was only found elsewhere in reference to the Tikal founder Yax Ehb Xook (Martin and Grube 2008, 195). Further reference to Tikal may be found in Popol Hol's Xukpi Stone found in the <a href="{{site.baseurl}}/structure-16">Margarita Structure</a>, which may mention Sihyaj K'ahk', the invading general (Martin and Grube 2008, 196). In each of his stelae, Popol Hol carved with the low relief and rectangular glyphs popular at the time (Fash 2011, 78).

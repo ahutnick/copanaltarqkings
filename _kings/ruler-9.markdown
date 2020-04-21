@@ -17,8 +17,6 @@ image: /images/kings/r9-erickson.jpg
 <li>Mentioned: <a href="{{site.baseurl}}/hieroglyphic-stairway/">Hieroglyphic Stairway</a></li>
 </ul>
 
-** Altar Q Image **
-
 Not much is known about Ruler 9. Their accession date in 551 can be found on the <a href="{{site.baseurl}}/hieroglyphic-stairway/">Hieroglyphic Stairway</a>, and the following ruler <a href="{{site.baseurl}}/moon-jaguar/">Moon Jaguar</a> acceded the throne in 553, providing an end date.
 
 Ruler 9 might be buried in the Sub-Jaguar tomb, but no names were recorded. <a href="{{site.baseurl}}/bahlam-nehn/">Bahlam Nehn</a>, <a href="{{site.baseurl}}/wi-yohl-kinich/">Wi' Yohl K'inich</a>, and <a href="{{site.baseurl}}/moon-jaguar/">Moon Jaguar</a> are also candidates for burial in this tomb (Martin and Grube 2008, 199).  

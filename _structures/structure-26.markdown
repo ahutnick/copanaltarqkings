@@ -6,8 +6,6 @@ permalink: /structure-26/
 
 # Structure 26
 
-** image **
-
 This Temple is one of the three structures, along with <a href="{{site.baseurl}}/structure-16">Structure 16</a> and Structure 11, known to have existed since the beginning of the <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo</a> lineage if not beforehand (Fash 2011, 36).
 
 ## Yax
@@ -48,6 +46,16 @@ Along the back of the Structure, a stucco crocodile was fashioned, symbolizing e
 #### <strong>Dates:</strong> 695
 #### <strong>Ruler:</strong> 13, 12, 1 - 11
 
+<p class="float">
+<img src="{{site.baseurl}}/images/chorcha-ykm-censer-blanchard.jpg" width="200">
+<img src="{{site.baseurl}}/images/chorcha-censer-blanchard.jpg" width="200">
+<img src="{{site.baseurl}}/images/chorcha-censer-2-blanchard.jpg" width="200">
+</p>
+
+##### <strong><em>Left - Yax K'uk' Mo' Effigy Censer, Right - Copan King Effigy Cnesers</em></strong>
+
+##### <em>Left - Laura B., <cite>2012-10-03_06univ_mus</cite>, 2012, photograph, Flickr. Middle - Laura B., <cite>2012-08-16_022univ_mus</cite>, 2012, photograph, Flickr. Right -  Laura B., <cite>2012-08-16_021univ_mus</cite>, 2012, photograph, Flickr.</em>
+
 Both Mascarones and Papagayo were later destroyed to form Chorcha, the site of <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a>'s burial (Martin and Grube 2008, 202). An offering of jades processed in varying degrees, cinnabar, and a spondylus shell was placed between Mascarones and Papagayo before the construction (Fash, Fash, and Davis-Salazar 2004, 80). <a href="{{site.baseurl}}/stela-63">Stela 63</a> was also ritually broken and burned, and macaw heads from the Ballcourt were also buried here. <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> would soon replace <a href="{{site.baseurl}}/stela-63">Stela 63</a> by commissioning his own monument commemorating the baktun ending, <a href="{{site.baseurl}}/stela-j">Stela J</a> (Fash, Fash, and Davis-Salazar 2004, 81).  
 
 <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> buried his predecessor with forty-four pottery vessels, jades, spondylus shells, spiny oyster shells, jaguar pelts, painted wood, and gourds (Martin and Grube 2008, 202; Fash 2002, 12). The bodies of a man and child were found in the tomb along with the king's body (Martin and Grube 2008, 202). <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a>'s body was ceremoniously wrapped in matting and jades as well as unfired clay, which resulted in the body's quick degradation (Martin and Grube 2008, 202; Fash 2002, 12). Though the available evidence is scant, the bones do belong to a man over fifty-five years of age, corresponding with the twelfth ruler who was eighty-two at death. The tomb was covered with eleven stone slabs (Martin and Grube 2008, 202). The fifth stair on the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a> discusses these burial practices (Fash 2002, 12).
@@ -68,7 +76,19 @@ Thirteenth Ruler <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun
 #### <strong>Dates:</strong> 755
 #### <strong>Ruler:</strong> 15
 
+<img src="{{site.baseurl}}/images/hs-stela-m-erickson.jpg" width="300">
+
+##### <strong><em>Stela M and Hieroglyphic Stairway outside 10L-26></em></strong>
+
+##### <em>Photograph Courtesy of Dr. Clark Erickson</em>
+
 Only one column of the structure succeeding Esmeralda survived, dubbed 10L-26 2nd (Fash 2002, 13). Its successor, 10L-26-1 was constructed by fifteenth <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a> along with his extension of the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a>. The upper sanctuary contains detailed full figured glyphs side by side with translations into a pseudoscript designed to appear from Teotihuacan (Martin and Grube 2008, 208). Depictions of Teotihuacan flourished in the Late Classic period in order to emphasize Copan's connections to the previously powerful city after the fall of <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>. Tikal had employed the same strategy in 682 to rally their people to revitalize after a devastating defeat from Calakmul (Martin and Grube 2008, 44-45).
+
+<img src="{{site.baseurl}}/images/skull-bones-erickson.jpg" width="200">
+
+##### <strong><em>Example of Skull and Bones</em></strong>
+
+##### <em>Photo Courtesy of Dr. Clark Erickson</em>
 
 To continue this theme, six Jaguar Tlaloc masks are positioned across the four corners and doorways of the temple. Jaguar Tlaloc, originally hailing from Central Mexico, was associated with warfare and sacrifice, which also relates to Late Classic imagery at Copan. The rectangular feathered shields and shells reminiscent of the Underworld echo the effect (Fash 1991, 146). The theme continues in the Annex (10L-230) on the south side. The "house of bones and skulls", the interior is decorated with stone skulls and over 100 long bones, emphasizing sacrifice (Fash 1991, 149).
 
@@ -92,6 +112,14 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>Stone, Andrea and Marc Zender. 2011. <cite>Reading Maya Art: A Hieroglyphic Guide to Ancient Maya Painting and Sculpture</cite>. London: Thames and Hudson.</li>
 <li>Taube, Karl. 2004. "Structure 10L-16 and Its Early Classic Antecedents: Fire and the Evocation and Resurrection of K'inich Yax K'uk' Mo'". In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 265-296. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Traxler, Loa P. 2004. "Redesigning Copan: Early Architecture of the Polity Center." In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 53-64. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
+</ul>
+
+##### <strong>Photographs</strong>:
+<ul>
+<li><a href="https://www.flickr.com/photos/lblanchard/8066813373/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-10-03_06univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</li>
+<li><a href="https://www.flickr.com/photos/lblanchard/8035940496/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-08-16_022univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</li>
+<li><a href="https://www.flickr.com/photos/lblanchard/8035939335/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-08-16_021univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</li>
+<li>Other Photos Courtesy of Dr. Clark Erickson</li>
 </ul>
 
 <br>

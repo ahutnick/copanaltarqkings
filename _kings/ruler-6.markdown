@@ -17,8 +17,6 @@ image: /images/kings/r6-erickson.jpg
 <li>Unknown</li>
 </ul>
 
-** Altar Q Image **
-
 Not much is known about Ruler 6 - information between 437 and 524 - <a href="{{site.baseurl}}/popol-hol/">Popol Hol</a>'s reign and the start of <a href="{{site.baseurl}}/bahlam-nehn/">Bahlam Nehn</a>'s - is limited at best.
 
 <br>

@@ -40,8 +40,6 @@ image: /images/kings/r16-zwegers.jpg
 <li><a href="{{site.baseurl}}/altar-l">Altar L</a></li>
 </ul>
 
-** Altar Q Image **
-
 Yax Pasaj Chan Yopaat, creator of Altar Q, was the last of the official kings in <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> lineage. The final king may have been as young as nine years old when he acceeded the throne two years afte his predecessor <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a> (Martin and Grube 2008, 209).
 
 While he would have many monuments attributed to him, the bulk of these would be embellishments to existing structures such as doorjambs, incensarios, benches, and altars rather than stelae or complete structural renovations (Martin and Grube 2008, 209). Three stelae are credited to the sixteenth king, although one of these - Stela 11 - is credited posthumously and another - Stela 8 - is largely destroyed or obscured, limiting discussion of his style in stelae (Baudez 1994, 139). He would also build <a href="{{site.baseurl}}/structure-16">Temple 16</a> final superstructure on at 10L-16 (Fash 2011, 67).

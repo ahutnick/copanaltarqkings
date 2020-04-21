@@ -19,11 +19,30 @@ permalink: /altar-q/
 #### <strong>King</strong>: 16 - 1
 #### <strong>Measurements</strong>: 2.5 feet x 4 feet x 4 feet
 
+<img src="{{site.baseurl}}/images/aq-west-erickson-2.jpg">
+
+##### <strong><em>Altar Q in Front of Temple 16</em></strong>
+
+##### <em>Photograph Courtesy of Dr. Clark Erickson</em>
+
 Before Altar Q, Copan's king lists included the censers in the <a href="{{site.baseurl}}/structure-26">Chorcha tomb</a>, which were complete for the time but revealed little textual information, or the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a>, which provided great textual information that required a great effort to reorder, translate, and contextualize. Altar Q is the most complete in that it includes all sixteen recognized kings in <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>s lineage.
 
 The altar was carved out of volcanic tuff, mined from north of the Acropolis. Altar Q rests upon four cylindrical feet which also bore the names of kings, though their writing has since been worn away by the elements (Herring 2005, 210). On the top of the altar, thirty-six glyphs are carved, with the text comprised of three sets of two columns of glyphs. Sixteen figures in total are found on its sides, with four figures to a side, each sitting on a glyph. On three sides, each of the figures sits facing in one direction. Eight face left while four face right (Baudez 1994, 95). They sit in a circle, facing the two figures who meet in the west side of the altar. All but these two figures hold a fan like object in their hand. In the center of the west side, the figure to the right hands the figure to the left a scepter-like object, and two glyphs are suspended between them. Notably, the figures on the sides appear as they would from the opposite side of the circle from where they are positioned (Herring 2005, 211). Thus, the figures, who face out toward the viewer, project the center of the circle out to the altar's audience, drawing them into the action of the circle.
 
 According to Gert Sdouz, the text on the top of the monument says that on September 6, 426, <a href="{{site.baseurl}}/yax-kuk-mo">Yax K’uk’ Mo’</a> in the homeland received the k’awiil. Three days later, he left this homeland. One hundred fifty-three days later, the journey ended and the Lord of the West arrived in Copan. This journey is assumed to have originated in Tikal or Teotihuacan, with whom <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> had political connections that provided him the throne (Sdouz 2015, 91; Price et al. 2010). 122,400 days later, <a href="{{site.baseurl}}/yax-kuk-mo">Yax K’uk’ Mo’</a>s memorial stone is erected by <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj Chan Yopaat</a>. Sixty-four days later, the stone’s dedication is made (2015, 97). On the front of the Altar, in between <a href="{{site.baseurl}}/yax-kuk-mo">Yax K’uk’ Mo’</a> and <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj</a>, is the sixeenth king's accession date 6 Kaban 10 Mol, or June 28, 763 (Baudez 1994, 97; Martin and Grube 2008, 209). Surrounding this glyph, <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> hands the k'awiil to <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj</a>, justifying his rule (Martin and Grube 2008, 209).
+
+<br>
+
+<p class="float">
+<img src="{{site.baseurl}}/images/aq-west.jpg">
+<img src="{{site.baseurl}}/images/aq-south.jpg">
+<img src="{{site.baseurl}}/images/aq-east.jpg">
+<img src="{{site.baseurl}}/images/aq-north.jpg">
+</p>
+
+##### <strong><em>From the top, left to right, Altar Q West, South, East, and North</em></strong>
+
+##### <em>Photos (Edited) Courtesy of Dr. Clark Erickson
 
 Along the sides, <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>, <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a>, and <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Yax Pasaj Chan Yopaat</a> are the only kings who do not sit on their name glyphs. <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> sits on an Ajaw glyph with his name given in his headdress. One can find glyphs for K'inich and Yax in the front feather, a quetzal feather in the back for K'uk', and a macaw eye for Mo' (Sdouz 2015, 102). The twelfth ruler sits on the glyphs "<em>jo winik haab</em>", or "5 k'atuns", referring to his being over eighty at his death (Sdouz 2015, 106). For Yax Pasaj, his name is split between his seat and his headdress, with Chan or sky and Yoaat found in his headdress (Sdouz 2015, 107, 109). Another interpretation is that he wears a headdress invoking Chaak - the rain god - asserting his status as a rain maker, or the fertile rain that falls from the rising smoke of the ancestors (Taube 2004, 295).
 

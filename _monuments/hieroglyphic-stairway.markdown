@@ -10,6 +10,15 @@ permalink: /hieroglyphic-stairway/
 #### <strong>Dates</strong>: 26 Nov 710 CE (First Phase), 5 May 755 CE (Second Phase)
 #### <strong>Kings</strong>: 13, 15, 1, 7, 8, 9, 10, 11, 12, 14
 
+<p class="float">
+<img src="{{site.baseurl}}/images/hs-stela-m-erickson.jpg">
+<img src="{{site.baseurl}}/images/hs-assorted.jpg">
+</p>
+
+##### <strong><em> Left - Stela M in front of the Hieroglyphic Stairway; Right - Stairway Detail</em></strong>
+
+##### <em>Top Right Photo - Hans B. N. <cite>Hieroglyphic Stairway of Copán</cite>, 2017, photograph, Wikimedia Commons. Other Photos Courtesy of Dr. Clark Erickson</em>
+
 This impressive stairway stands sixty-four to sixty-five risers high with at least six hundred twenty volcanic tuff blocks containing 2200 glyphs (Houston, Fash, and Stuart 2014; Martin and Grube 2008, 208). Each riser is eight meters wide and thirty centimeters high, yet each forms a complete statement from top to bottom (Houston, Fash, and Stuart 2014). With these glyphs forming sixty-nine continuous feet, Copan officially has the longest Maya hieroglyphic stairway (Martin and Grube 2008, 208). Six figures - five seated and one standing - watch those who climb the stairway (Houston, Fash, and Stuart 2014). At the base, <a href="{{site.baseurl}}/stela-m">Stela M</a> faces in the same direction (Martin and Grube 2008, 207).
 
 While hieroglyphic steps would also be found in the <a href="{{site.baseurl}}/wi-yohl-kinich">Ante structure</a>, the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a>, Structure 10-11, Xukpi, and in front of <a href="{{site.baseurl}}/stela-63">Stela 63</a>, the Hieroglyphic Stairway is the only one of its kind to be found outside of a structure rather than inside (Fash 2004, 261).
@@ -94,4 +103,8 @@ Notably, each of the king statues on the stairway are dressed in Teotihuacan war
 <li>Stone, Andrea and Marc Zender. 2011. <cite>Reading Maya Art: A Hieroglyphic Guide to Ancient Maya Painting and Sculpture</cite>. London: Thames and Hudson.</li>
 </ul>
 
-<br>
+#### <strong>Photographs</strong>:
+<ul>
+<li><a href="https://commons.wikimedia.org/wiki/File:Hieroglyphic_Stairway_of_Cop%C3%A1n_(40008951705).jpg"><cite>Hieroglyphic Stairway of Copán</cite></a>, by Hans Birger Nilsen, is licensed under <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en">CC BY-SA 2.0</a></li>
+<li>Other Photos Courtesy of Dr. Clark Erickson</li>
+</ul>

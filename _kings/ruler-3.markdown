@@ -17,8 +17,6 @@ image: /images/kings/r3-erickson.jpg
 <li>Unknown</li>
 </ul>
 
-** Altar Q Image **
-
 Not much is known about Ruler 3 - information between 437 and 524 - <a href="{{site.baseurl}}/popol-hol/">Popol Hol</a>'s reign and the start of <a href="{{site.baseurl}}/bahlam-nehn/">Bahlam Nehn</a>'s - is limited at best.
 
 This king may have been mentioned on Quirigua Monument 26 along with <a href="{{site.baseurl}}/kaltuun-hix/">K'altuun Hix</a>. The text refers to a "third" and "fourth king", although the evidence is not conclusive (Martin and Grube 2008, 196).
