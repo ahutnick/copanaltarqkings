@@ -11,7 +11,7 @@ permalink: /stela-j/
 #### <strong>Rulers:</strong> 13, 12, 1
 #### <strong>Measurements:</strong> 8.92 feet x 2.92 feet x 2.36 feet, cribbing 5.58 feet
 
-<img src="{{site.baseurl}}/images/stelaJ-dennis-jarvis.jpg">
+<img src="{{site.baseurl}}/images/stela-j-jarvis.jpg">
 ###### Dennis J. <cite>Honduras-0294</cite>, 2007, photograph. Flickr.
 
 At the eastern entrance to the village stands <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s first monument, erected seven years after his accession (Martin and Grube 2008, 203). The stela was created to celebrate his first period ending as king (Fash 1991, 150). So early into his reign, he had yet to develop his signature elaborate, high relief style. Stela J was created in low relief and is the only surviving stela created by the thirteenth ruler in the village (Fash 1991, 113). Yet, the stela was still elaborate and unique with exceptional detail on its two figured sides, neither of which depict a human subject. With text on the sides and two sides containing figural imagery, one may classify this stela as a Type V, although text is largely present on all four sides (Fash 2004, 259).
@@ -58,5 +58,5 @@ In 751, K'ahk' Tiliw Chan Yopaat, the Quirigua king who killed <a href="{{site.b
 
 #### <strong>Photograph</strong>
 <ul>
-<li>Jarvis, Dennis. <cite>Honduras-0294</cite>, 2007, photograph. Flickr.</li>
+<li><a href="https://www.flickr.com/photos/archer10/2214390990/in/photolist-4nBokD-4nFki1"><cite>Honduras-0294</cite></a>, by Dennis Jarvis, is licensed by <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA-2.0</a>.</li>
 </ul>

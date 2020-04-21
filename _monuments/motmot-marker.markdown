@@ -10,8 +10,8 @@ permalink: /motmot-marker/
 #### <strong>Dates:</strong> 9.0.0.0.0 8 Ajaw 14 K'ej / December 9, 435
 #### <strong>Rulers:</strong> 1 and 2
 
-<img src="{{site.baseurl}}/images/motmot-dennis-jarvis.jpg">
-###### Dennis J. <cite>Honduras-0330B</cite>, 2007, photograph. Flickr.
+<img src="{{site.baseurl}}/images/motmot-erickson.jpg">
+###### Photograph Courtesy of Dr. Clark Erickson.
 
 The Motmot Marker is a particularly unique Copan monument. It serves as a gravestone sealing the circular crypt in front of the Motmot Structure, a renovation of <a href="{{site.baseurl}}/structure-26">Structure 10L-26</a> built by <a href="{{site.baseurl}}/popol-hol">Popol Hol</a>. The marker is both the only Copan monument found to be carved from limestone instead of volcanic tuff and the oldest monument found in place and intact (Fash 2011 79). The carving also has some of the lowest-relief carving found in Copan, which along with its rectangular glyphs fits the Early Classic style (Fash 2004, 257). Uncommon for the Early Classic style however was the figural element of the carving. Figure carvings would not reappear on stelae for roughly a century (Fash 2004, 255).
 
@@ -51,11 +51,6 @@ The baktun ending would be a defining moment for this lineage in Copan and Struc
 <li>Fash, William L., Barbara W. Fash, and Karla L. Davis-Salazar. 2004.
     "Setting the Stage: Origins of the Hieroglyphic Stairway on the Great Period Ending." In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 65-84. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
-</ul>
-
-#### <strong>Photograph</strong>
-<ul>
-<li>Jarvis, Dennis. <cite>Honduras-0330B</cite>, 2007, photograph. Flickr.</li>
 </ul>
 
 <br>

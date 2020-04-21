@@ -12,7 +12,7 @@ permalink: /stela-2/
 #### <strong>Measurements</strong>: 9.65 feet x 2.55 at base, x 3 feet at top. relief roughly .4 feet deep
 
 <img src="{{site.baseurl}}/images/stela-2-profile.JPG">
-<h6><em>Photo Courtesy of Dr. Clark Erickson</em></h6>
+##### <em>Photo Courtesy of Dr. Clark Erickson</em>
 
 This stela was erected by <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a> for the 9.11.0.0.0 katun ending. Notably, this stela bears a considerable resemblance to <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>'s <a href="{{site.baseurl}}/stela-p">Stela P</a> with its low relief and Paddler God heads emerging from the flexible serpent bar (Fash 2011, 57). This stela also is a Type IV with three sides carved with glyphs and one side carved figurally (Fash 2004, 259).
 

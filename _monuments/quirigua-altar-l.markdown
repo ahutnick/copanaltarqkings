@@ -55,5 +55,5 @@ Like the king who erected this monument, Altar L offers a fascinating if not inc
 
 #### <strong>Photograph</strong>
 <ul>
-<li>José Luis Filpo Cabana. <cite>Altar L de Quirigua</cite>, December 2017, photograph. Wikimedia Commons.</li>
+<li><a href="https://commons.wikimedia.org/wiki/File:Altar_L_de_Quirigu%C3%A1_(Quirigu%C3%A1).jpg"><cite>Altar L de Quirigua</cite></a>, by José Luis Filpo Cabana is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC-BY-SA-4.0</a>.</li>
 </ul>
