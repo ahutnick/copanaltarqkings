@@ -3,7 +3,7 @@ layout: default
 title: K'ahk Uti' Witz' K'awiil
 permalink: /kahk-uti-witz-kawiil/
 ruler: 12
-aqorder: 7
+aqorder: 15
 image: /images/kings/r12-erickson.jpg
 ---
 
@@ -25,7 +25,12 @@ image: /images/kings/r12-erickson.jpg
 </li>
 </ul>
 
-Reigning at the same time of other famous Maya rulers such as K’inich Janahb’ Pakal of Palenque and Itzamnah B’ahlam I of Yaxchilan, K'ahk Uti' Witz' K'awiil was honored in his long rule and expansionist policies (Fash 2011, 104). On Altar Q, he does not need to sit on his name glyph, but is rather referenced using a 5 katun glyph, because his reign lasted during 5 katun periods (Martin and Grube 2008, 201).
+<img src="{{site.baseurl}}{{page.image}}">
+
+##### <strong><em>Altar Q Portrait</em></strong>
+##### <em>Photograph (Edited) Courtesy of Dr. Clark Erickson</em>
+
+Reigning at the same time of other famous Maya rulers such as K’inich Janaab’ Pakal of Palenque and Itzamnaaj B’ahlam III of Yaxchilan, K'ahk' Uti' Witz' K'awiil was honored in his long rule and expansionist policies (Fash 2011, 104). On Altar Q, he does not need to sit on his name glyph, but is rather referenced using a 5 k'atun glyph, because his reign lasted during 5 k'atun periods (Martin and Grube 2008, 201).
 
 Believed to have been born in 604, K'ahk Uti' Witz' K'awiil would have been twenty-four at the time of his accession. It would be another twenty-four years before his first stelae in 652 (Martin and Grube 2008, 201). Four of his seven stelae - 10, 12, 13, and 19 would be placed at the edges of the Copan Valley, not just the city (Grube and Schele 1988, 301). While this policy of expansion began during his predecessor <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s time, K'ahk Uti' Witz' K'awiil undertook the ambitious program to memorialize these findings (Looper 2003, 52).
 

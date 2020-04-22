@@ -7,7 +7,7 @@ permalink: /stela-m/
 # Stela M
 
 #### <strong>Location:</strong> Base of the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a>
-#### <strong>Dates:</strong> 9.16.5.0.0 8 Ahau 8 Zodz / 756
+#### <strong>Dates:</strong> 9.16.5.0.0 8 Ajaw 8 Zodz / 756
 #### <strong>Rulers:</strong> 15
 #### <strong>Measurements:</strong> 11 feet x 3.6 feet x 2.66 feet, cribbing 6.89 feet x 6.3 feet x 1.5 feet
 
@@ -24,7 +24,7 @@ Both Stela M and its accompanying altar were impressive pieces of sculpture even
 
 Further supporting this idea, in the cruciform cache under the stela's platform was housed various ceramics, jadeite, stalactites, and a spondylus shell treated with mercury (Baudez 1994, 74). The spondylus shell was a high end luxury item in Copan, which only a king could afford to give in offering (Stone and Zender 2011, 167). Though Copan had lost its foothold in the Motagua Valley and had an injured reputation, the king still put forward lavish offerings to insist that they were not defeated.
 
-The figure - <a href="{{site.baseurl}}/kahk-yipyaj-chan-yopaat">K'ahk' Yipyaj Chan Yopaat</a> stands facing forward, carrying the serpent bar, from which God K heads emerge bearing the stone glyph and the torch or "axe and smoke" as Baudez calls it in their forehead, evoking the "Mannekin Scepter" or the "k'awiil" - the symbol of royal authority (Baudez 1994, 74). The k'awiil in the forehead specifically may symbolize a king's apotheosis as the God K, patron of kings (Fash 1991, 177). <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a> had seized this bar to begin his dynasty roughly three hundred years prior.
+The figure - <a href="{{site.baseurl}}/kahk-yipyaj-chan-yopaat">K'ahk' Yipyaj Chan Yopaat</a> stands facing forward, carrying the serpent bar, from which K'awiil heads emerge bearing the stone glyph and the torch or "axe and smoke" as Baudez calls it in their forehead, evoking the "k'awiil" - the symbol of royal authority (Baudez 1994, 74). K'awiil in the forehead specifically may symbolize a king's apotheosis as the God K, patron of kings (Fash 1991, 177). <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a> had seized this bar to begin his dynasty roughly three hundred years prior.
 
 The figure bears a crocodile helmet on his head, lancets on his wristlet, and the solar jaguar snakes and eyes on his loincloth (Baudez 1994, 74) Interestingly, the crocodile head has shells instead of ears, which feature blackened U's. This may have been a reference to the thirteenth ruler's name, which has been translated as "Smoke Shell". For another instance of a literal reference to <a href="{{site.baseurl}}/kahk-yipyaj-chan-yopaat">K'ahk' Yipyaj Chan Yopaat</a>, see the <a href="{{site.baseurl}}/structure-26">temple</a> for the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a> (Fash 1991, 149). On his belt are panels of the crossed bands glyph associated with the Founder. The figure is surrounded by a number of grotesques. The stela also features serpents against a feathered background with rosettes and braid and tassel embellishments (Baudez 1994, 74-76).
 
@@ -53,7 +53,7 @@ The life head was identified in the south with two instances of the Star of Venu
 
 #### <strong><a href="{{site.baseurl}}/motifs">Motifs:</a></strong>
 <ul>
-<li>Bicephalic zoomorph</li>
+<li>Bicephalic serpent</li>
 <li>Braid and Tassel</li>
 <li>Crocodile</li>
 <li>Crossed bands</li>
@@ -64,7 +64,7 @@ The life head was identified in the south with two instances of the Star of Venu
 <li>Spondylus Shell</li>
 <li>Torch in forehead</li>
 <li>Venus</li>
-<li>Witz Masks</li>
+<li>Witz</li>
 </ul>
 
 #### <strong>See Also:</strong>

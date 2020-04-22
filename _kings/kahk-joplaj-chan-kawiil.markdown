@@ -3,7 +3,7 @@ layout: default
 title: K'ahk' Joplaj Chan K'awiil
 permalink: /kahk-joplaj-chan-kawiil/
 ruler: 14
-aqorder: 5
+aqorder: 13
 image: /images/kings/r14-erickson.jpg
 ---
 # Ruler 14: K'ahk' Joplaj Chan K'awiil
@@ -17,6 +17,11 @@ image: /images/kings/r14-erickson.jpg
 <li>Mentioned on <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a></li>
 <li>Possibly 10L-22A facade</li>
 </ul>
+
+<img src="{{site.baseurl}}{{page.image}}">
+
+##### <strong><em>Altar Q Portrait</em></strong>
+##### <em>Photograph (Edited) Courtesy of Dr. Clark Erickson</em>
 
 Unlike his predecessor and successor, K'ahk' Joplaj Chan K'awiil did not produce any grand monuments in his own name. Taking the throne after the decapitation of <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>, morale in Copan was low to say the least. The city had humiliatingly lost its ruler, its vassal, and its control in the Motagua Valley. According to the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a>, K'ahk' Joplaj Chan K'awiil erected "no altars, no pyramids", nor would any be erected until seventeen years after <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s death (Martin and Grube 2008, 206).
 

@@ -19,6 +19,11 @@ image: /images/kings/r10-erickson.jpg
 <li><a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a></li>
 </ul>
 
+<img src="{{site.baseurl}}{{page.image}}">
+
+##### <strong><em>Altar Q Portrait</em></strong>
+##### <em>Photograph (Edited) Courtesy of Dr. Clark Erickson</em>
+
 On <a href="{{site.baseurl}}/altar-q">Altar Q</a>, Moon Jaguar is found sitting on a Waterlily Jaguar glyph, which is probably in reference to his father, <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> (Schele 1986, 57).
 
 The tenth king's <a href="{{site.baseurl}}/stela-9">Stela 9</a> is notable for two particular reasons. First, it reveals <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>, the seventh king, to be Moon Jaguar's father. Moon Jaguar even goes so far as to refer to his father with Ma Kina, a title usually reserved for <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> (Schele 1986, 59). Second, <a href="{{site.baseurl}}/stela-9">Stela 9</a> is the first stela to include figural depictions since the second king <a href="{{site.baseurl}}/popol-hol">Popol Hol's</a> reign (Schele 1987, 235; Fash 2004, 255). This return to form would give way to impressive works of high relief from future kings. Unfortunately, due to the monument's previous destruction, little information is available about Moon Jaguar's figural style. Moon Jaguar's other confirmed monument, Stela 17, is classified as a Type II stela with two sides carved only with glyphs, denying further information (Fash 2004, 259).  

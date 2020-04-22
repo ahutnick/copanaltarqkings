@@ -38,10 +38,9 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>Schele, Linda and Nikolai Grube. 1987b. “The Birth Monument of Butz’-Chaan” In  <cite>Copan Notes, The</cite>, 163-164. Austin, TX: Copan Mosaic Project.</li>
 <li>Schele, Linda and Nikolai Grube. 1988. “Copan Note 39: The Father of Smoke Shell” In <cite>Copan Notes, The</cite>, 289-290. Austin, TX: Copan Mosaic Project.</li>
 <li>Schele, Linda and David Schele. 1986. “Copan Note 16: Waterlily Jaguar, the Seventh Successor of the Lineage of Yax-K’uk’-Mo’” In <cite>Copan Notes, The</cite>, 66-78. Austin, TX: Copan Mosaic Project.</li>
-<li>Schele, Linda and David Stuart. “Copan Note 14: Butz-Chan, the 11th Successor of the Yax-K’uk-Mo’ Lineage” In <cite>The Copan Notes</cite>. Austin, TX: Copan Mosaic Project, 1986. pp 47 - 56</li>
+<li>Schele, Linda and David Stuart. 1986. “Copan Note 14: Butz-Chan, the 11th Successor of the Yax-K’uk-Mo’ Lineage” In <cite>The Copan Notes</cite>, 47-56. Austin, TX: Copan Mosaic Project.</li>
 <li>Sdouz, Gert. 2015. <cite>Altar Q Copan Honduras: A tour through the illustrations of one of the Maya’s most interesting monuments</cite>. Vienna: Wien.</li>
 <li>Stone, Andrea and Marc Zender. 2011. <cite>Reading Maya Art: A Hieroglyphic Guide to Ancient Maya Painting and Sculpture</cite>. London: Thames and Hudson.</li>
-<li>Stuart, David. 1986. “Copan Note 18: The Step Inscription of Temple 22 at Copan” In <cite>Copan Notes, The</cite>, 111-114. Austin, TX: Copan Mosaic Project.</li>
 <li>Stuart, David. 2004. "The Beginnings of the Copan Dynasty: A Review of the Hieroglyphic and Historical Evidence" In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 215-248. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Stuart, David, Nikolai Grube, Linda Schele, and Floyd Lounsbury. 1989.
     “Copan Note 56: Stela 63, A New Monument from Copan”. In <cite>The Copan Notes</cite>, 1-8. Austin, TX: Copan Mosaic Project</li>

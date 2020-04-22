@@ -3,7 +3,7 @@ layout: default
 title: K'altuun Hix
 permalink: /kaltuun-hix/
 ruler: 4
-aqorder: 15
+aqorder: 7
 image: /images/kings/r4-erickson.jpg
 ---
 
@@ -20,6 +20,11 @@ image: /images/kings/r4-erickson.jpg
 <li>Step at <a href="{{site.baseurl}}/stela-63/">Stela 63</a> (Papagayo Step)
 </li>
 </ul>
+
+<img src="{{site.baseurl}}{{page.image}}">
+
+##### <strong><em>Altar Q Portrait</em></strong>
+##### <em>Photograph (Edited) Courtesy of Dr. Clark Erickson</em>
 
 Not much is known about the fourth king of Copan, although more is known about him than Rulers <a href="{{site.baseurl}}/ruler-3">3</a>, <a href="{{site.baseurl}}/ruler-5">5</a>, <a href="{{site.baseurl}}/ruler-6">6</a>, and <a href="{{site.baseurl}}/ruler-9">9</a>. He renovated the <a href="{{site.baseurl}}/structure-26">Papagayo Structure</a>, adding in a stair in front of <a href="{{site.baseurl}}/stela-63/">Stela 63</a> in dedication. Fascinatingly, this stair is one of the few instances of invoking the second person, indicating a direct quote from the ruler. The text, including “your gods” and “your land” appears to refer to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K’uk Mo’</a> and his identity as a foreigner with ties to Teotihuacan  (Martin and Grube 2008, 196). The stair even uses the “pu” or bulrush glyph associated with Teotihuacan (Fash, Fash, and Davis-Salazar 2004, 78). This text may perform a sort of separation between customs of Teotihuacan and local origins, or it may seek to celebrate the power derived from the founder’s origins.
 

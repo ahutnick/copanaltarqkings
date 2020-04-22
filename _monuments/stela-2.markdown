@@ -7,18 +7,18 @@ permalink: /stela-2/
 # Stela 2
 
 #### <strong>Location</strong>: Great Plaza, Currently Overlooking Ballcourt
-#### <strong>Dates</strong>: 9.11.0.0.0 12 Ahau 8 Ceh / 652 CE
+#### <strong>Dates</strong>: 9.11.0.0.0 12 Ajaw 8 Ceh / 652 CE
 #### <strong>King</strong>: 12
 #### <strong>Measurements</strong>: 9.65 feet x 2.55 at base, x 3 feet at top. relief roughly .4 feet deep
 
 <img src="{{site.baseurl}}/images/stela-2-profile.JPG">
 ##### <em>Photo Courtesy of Dr. Clark Erickson</em>
 
-This stela was erected by <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a> for the 9.11.0.0.0 katun ending. Notably, this stela bears a considerable resemblance to <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>'s <a href="{{site.baseurl}}/stela-p">Stela P</a> with its low relief and Paddler God heads emerging from the flexible serpent bar (Fash 2011, 57). This stela also is a Type IV with three sides carved with glyphs and one side carved figurally (Fash 2004, 259).
+This stela was erected by <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk' Uti' Witz' K'awiil</a> for the 9.11.0.0.0 k'atun ending. Notably, this stela bears a considerable resemblance to <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>'s <a href="{{site.baseurl}}/stela-p">Stela P</a> with its low relief and Paddler God heads emerging from the flexible serpent bar (Fash 2011, 57). This stela also is a Type IV with three sides carved with glyphs and one side carved figurally (Fash 2004, 259).
 
 Though the figure on the stela is seriously eroded, particularly at the base, he stands dressed for the period ending ritual. Fittingly, he wears the spotted jaguar headdress suitable for resurrecting the jaguar deity as well as the loincloth, belt, celts, and tinklers suitable for ritual dress (Fash 2011, 57). The jaguar helmet differs from <a href="{{site.baseurl}}/stela-p">Stela P</a>'s bird headdress, perhaps to emphasize this particular ritual. Both stelae feature similar ritual garb however, also including youth masks, circular shields, serpent head wristlets and anklets, and circular shields (Baudez 1994, 94, 111). In addition, both stelae position their kings in front of a jaguar pelt background, symbolizing warfare or wealth (Stone and Zender 2011, 195). Stela 2 is also surrounded by braid and tassel and serpent motifs (Baudez 1994, 111).  
 
-Above the headdress, a waterlily emerges, mirroring the waterlily emerging from the jaguar skull in the serpent bar (Baudez 1994, 111). This evokes the skull and vegetation motif representing the life and death cycle (Fash 2011, 59). This motif complements the Paddler Gods, who represent day and night as well as the psychopomps conveying souls through the cycle of death and rebirth. Only the Jaguar Paddler God is visible with the Stingray Spine God having eroded (Stone and Zender 2011, 51). The figure also has a <em>witz</em> sign on his forehead referring to the Underworld, the source of death and rebirth (tf). This motif is also typically paired with vegetation (Taylor 1978, 3).
+Above the headdress, a waterlily emerges, mirroring the waterlily emerging from the jaguar skull in the serpent bar (Baudez 1994, 111). This evokes the skull and vegetation motif representing the life and death cycle (Fash 2011, 59). This motif complements the Paddler Gods, who represent day and night as well as the psychopomps conveying souls through the cycle of death and rebirth. Only the Jaguar Paddler God is visible with the Stingray Spine God having eroded (Stone and Zender 2011, 51). The figure also has a <em>witz</em> sign on his forehead referring to the Underworld, the source of death and rebirth. This motif is also typically paired with vegetation (Taylor 1978, 3).
 
 Like in <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s <a href="{{site.baseurl}}/stela-p">Stela P</a> and <a href="{{site.baseurl}}/stela-7">Stela 7</a>, the Paddler Gods emerge from the serpent bar rather than floating by the ruler's head as was common for a period ending (Stone and Zender 2011, 51).
 

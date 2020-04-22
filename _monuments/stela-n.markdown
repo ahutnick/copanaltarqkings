@@ -7,7 +7,7 @@ permalink: /stela-n/
 # Stela N
 
 #### <strong>Location</strong>: Base of Hieroglyphic Stairway Courtyard, Base of Temple 11
-#### <strong>Dates</strong>: 9.16.10.0.0 1 Ahau 3 Zip (Dedication), 9.15.6.16.5 6 Chicchan 3 Yaxkin (R14 Accession), 9.15.17.13.10 11 Oc 13 Pop (R15 Accession)
+#### <strong>Dates</strong>: 9.16.10.0.0 1 Ajaw 3 Zip (Dedication), 9.15.6.16.5 6 Chicchan 3 Yaxk'in (R14 Accession), 9.15.17.13.10 11 Oc 13 Pop (R15 Accession)
 #### <strong>Kings</strong>: 15, 14, 16?
 #### <strong>Measurements</strong>: 11.68 feet x 4.03 feet x 3.08 feet, relief 1.31 feet deep (North) and 1.48 feet (South)
 
@@ -24,7 +24,7 @@ permalink: /stela-n/
 
 Stela N is fifteenth ruler <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a>'s second stela after <a href="{{site.baseurl}}/stela-m">Stela M</a>. He continues his style of high relief with depth at almost one and a half feet and figural detail wrapping around the sides. This stela is classified as a Type V with two figural sides and 2 textual sides, though the text on the east and west sides comprise of only one column (Fash 2004, 259; Baudez 1994, 83). Underneath the stela is cached five bowls, ten flower pots, and stalactites, noticeably less extravagant than even <a href="{{site.baseurl}}/stela-m">Stela M</a>'s offerings, which contained a spondylus shell and jadeite (Baudez 1994, 83, 74). The stela is paired with a zoomorphic altar.
 
-Both the north side and south side depict a young king seemingly emerging from the mouth of the Witz' creature and by connection the Underworld. Both figures wear a waterlily headdress being eaten by a fish surrounded by braid and tassel as well as a beaded cape, pectoral mask, serpent bar, and square earrings (Baudez 1994, 83). God K heads emerge out of the serpent bar on both sides. Both men also have ancestor figures above their heads and a witz entity by their feet, sinking back into the Underworld (Baudez 1994, 84). However, whereas the north face wears an assumedly serpentine helmet, the south figure's helmet is crocodilian (Baudez 1994, 85). On both sides, the kings are surrounded by fertility spirits adorned with waterlily blossoms and Witz' elements (Baudez 1994, 86).
+Both the north side and south side depict a young king seemingly emerging from the mouth of the Witz creature and by connection the Underworld. Both figures wear a waterlily headdress being eaten by a fish surrounded by braid and tassel as well as a beaded cape, pectoral mask, serpent bar, and square earrings (Baudez 1994, 83). K'awiil heads emerge out of the serpent bar on both sides. Both men also have ancestor figures above their heads and a witz entity by their feet, sinking back into the Underworld (Baudez 1994, 84). However, whereas the north face wears an assumedly serpentine helmet, the south figure's helmet is crocodilian (Baudez 1994, 85). On both sides, the kings are surrounded by fertility spirits adorned with waterlily blossoms and Witz elements (Baudez 1994, 86).
 
 <p class="float">
 <img src="{{site.baseurl}}/images/stela-n-east.jpg">
@@ -49,7 +49,7 @@ This action would explain why both kings appear young and why they both appear t
 
 ##### <em>Photos (Edited) Courtesy of Dr. Clark Erickson</em>
 
-The associated altar continues this theme of death and its role in perpetuating fertility. Though the west and east sides are broken, four heads comprise the sides of the altar. The east side contains a bat mask while the west side contains a death mask crowned with plant life. The north and south sides contain jaguar faces, each with a corresponding leg. Three circles, possibly representing the Witz' sign, can be found on the east and south sides. A trilobed shell with ajaw glyphs form the top of the altar. The bat and jaguar masks, particularly when coupled with Witz' symbols, can represent death and the Underworld. When coupled with fertility stemming from death in the west mask, this altar emphasizes this cycle (Baudez 1994, 87, 90).
+The associated altar continues this theme of death and its role in perpetuating fertility. Though the west and east sides are broken, four heads comprise the sides of the altar. The east side contains a bat mask while the west side contains a death mask crowned with plant life. The north and south sides contain jaguar faces, each with a corresponding leg. Three circles, possibly representing the Witz sign, can be found on the east and south sides. A trilobed shell with ajaw glyphs form the top of the altar. The bat and jaguar masks, particularly when coupled with Witz symbols, can represent death and the Underworld. When coupled with fertility stemming from death in the west mask, this altar emphasizes this cycle (Baudez 1994, 87, 90).
 
 <br>
 
@@ -63,9 +63,9 @@ The associated altar continues this theme of death and its role in perpetuating 
 <li>Crocodile</li>
 <li>Crossed Bands</li>
 <li>Double Figure Stela</li>
-<li>God K</li>
 <li>Intertwined Serpents</li>
 <li>Jaguar</li>
+<li>K'awiil</li>
 <li>Red Paint</li>
 <li>Serpent</li>
 <li>Serpent Bar</li>

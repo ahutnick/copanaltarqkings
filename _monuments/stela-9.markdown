@@ -7,7 +7,7 @@ permalink: /stela-9/
 # Stela 9
 
 #### <strong>Location:</strong> Uncertain
-#### <strong>Dates:</strong> 9.6.10.0.0 8 Ahau 13 Pax (about 564)
+#### <strong>Dates:</strong> 9.6.10.0.0 8 Ajaw 13 Pax (about 564)
 #### <strong>Rulers:</strong> 10, 7
 #### <strong>Measurements:</strong> Unknown
 
@@ -15,7 +15,7 @@ This stela was created by <a href="{{site.baseurl}}/moon-jaguar">Moon Jaguar</a>
 
 Interestingly, <a href="{{site.baseurl}}/moon-jaguar">Moon Jaguar</a> refers to himself as the "ninth child in the lineage of Copan" yet does not mention <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a> or use the typical succession title (MacLeod 1988, 339; Schele 1986a, 2).
 
-However, while the tenth ruler does not name the Founder, he does name his father, which was not particularly common on Copan stelae (see <a href="{{site.baseurl}}/stela-63">Stela 63</a>, Stela 10, and Stela N). Here, Moon Jaguar mentions the seventh ruler <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>, or Waterlily Jaguar, with the <em>u ahau</em> or "child of the father" glyph (Schele 1986b, 59). Of particular note is that <a href="{{site.baseurl}}/moon-jaguar">Moon Jaguar</a> refers to his father with the "Ma K'inah" title usually reserved for <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a>. Given that <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> is the only other king with "Jaguar" in his title, no other kings in the lineage present themselves as potential candidates. The text also describes the father as being a "one katun lord", and given that <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> reigned from 524 - 532, he would have been within one katun (Schele 1986b, 59). Schele speculates that Wi Yohl K'inich and Ruler 9 were also sons of <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> (1987, 236). In the bloodletting glyphs associated with parentage - with the blood referring to the child - the glyphs are believed to have used the -tal suffix then popular in Copan and Palenque (MacLeod 1988, 340).
+However, while the tenth ruler does not name the Founder, he does name his father, which was not particularly common on Copan stelae (see <a href="{{site.baseurl}}/stela-63">Stela 63</a>, Stela 10, and Stela N). Here, Moon Jaguar mentions the seventh ruler <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>, or Waterlily Jaguar, with the <em>u ajaw</em> or "child of the father" glyph (Schele 1986b, 59). Of particular note is that <a href="{{site.baseurl}}/moon-jaguar">Moon Jaguar</a> refers to his father with the "Ma K'inah" title usually reserved for <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a>. Given that <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> is the only other king with "Jaguar" in his title, no other kings in the lineage present themselves as potential candidates. The text also describes the father as being a "one k'atun lord", and given that <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> reigned from 524 - 532, he would have been within one k'atun (Schele 1986b, 59). Schele speculates that Wi Yohl K'inich and Ruler 9 were also sons of <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> (1987, 236). In the bloodletting glyphs associated with parentage - with the blood referring to the child - the glyphs are believed to have used the -tal suffix then popular in Copan and Palenque (MacLeod 1988, 340).
 
 Of note, <a href="{{site.baseurl}}/stela-e">Stela E</a>, a successor by <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> also commemorates <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>, although the context is somewhat vague (Martin and Grube 2008, 197).
 
@@ -26,7 +26,7 @@ While this stela does mention the Founder briefly, <a href="{{site.baseurl}}/moo
 #### <strong><a href="{{site.baseurl}}/motif-glossary">Motifs</a></strong>
 <ul>
 <li>Serpent bar</li>
-<li>U-Chac-Xib-Chac</li>
+<li>Chac-Xib-Chaac</li>
 </ul>
 
 #### <strong>See Also:</strong>

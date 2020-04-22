@@ -3,7 +3,7 @@ layout: default
 title: Butz' Chan
 permalink: /butz-chan/
 ruler: 11
-aqorder: 8
+aqorder: 16
 image: /images/kings/r11-erickson.jpg
 ---
 
@@ -19,6 +19,11 @@ image: /images/kings/r11-erickson.jpg
 <li><a href="{{site.baseurl}}/stela-7">Stela 7</a></li>
 <li><a href="{{site.baseurl}}/stela-p">Stela P</a></li>
 </ul>
+
+<img src="{{site.baseurl}}{{page.image}}">
+
+##### <strong><em>Altar Q Portrait</em></strong>
+##### <em>Photograph (Edited) Courtesy of Dr. Clark Erickson</em>
 
 Butz' Chan's nearly fifty year reign oversaw a large population growth in the 7th century (Martin and Grube 2008, 200; Fash 1991, 98). Only two of his stelae - <a href="{{site.baseurl}}/stela-7">Stela 7</a> and <a href="{{site.baseurl}}/stela-p">Stela P</a> have survived, both of which commemorate period endings (Martin and Grube 2008, 200; Schele 1987, 200; Fash 2011, 55). Both of his stelae feature the Paddler Gods - the Stingray Spine God and Jaguar God - who represented day and night respectively as well as death and rebirth and other dualities (Stone and Zender 2011, 201). Notably, these gods also appeared in Tikal Burial 116, Dos Pilas Stela 8, and other locations in the Maya region (Schele 1986 199).  Following the theme of duality, these stelae emphasize each half of these dualities respectively, with <a href="{{site.baseurl}}/stela-7">Stela 7</a> emphasizing the physical strength, sacrifice, and prowess in warfare through the jaguar or night while <a href="{{site.baseurl}}/stela-p">Stela P</a> emphasizes fertility and abundance through the day and rebirth aspect. Notably, these stelae were erected in the village and in the Acropolis respectively, and Butz' Chan alters the carving style used to suit each location, with the village stela focusing on the physical and the Acropolis stela focusing moreso on the divine.
 

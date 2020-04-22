@@ -8,7 +8,7 @@ permalink: /hieroglyphic-stairway/
 
 #### <strong>Location</strong>: <a href="{{site.baseurl}}/structure-26">10L-26-1</a>
 #### <strong>Dates</strong>: 26 Nov 710 CE (First Phase), 5 May 755 CE (Second Phase)
-#### <strong>Kings</strong>: 13, 15, 1, 7, 8, 9, 10, 11, 12, 14
+#### <strong>Kings</strong>: 13, 15, 1-12, 14
 
 <p class="float">
 <img src="{{site.baseurl}}/images/hs-stela-m-erickson.jpg">
@@ -51,7 +51,7 @@ Notably, each of the king statues on the stairway are dressed in Teotihuacan war
 
  The cache at the base continues these themes of war, sacrifice, and glory. The cache contained spondylus shell and two jade pieces from the third or fourth century speculated to be royal heirlooms (Fash 1991, 148). While the jade was a sign of royalty, spondylus shell was considered a luxury item and mark of wealth, marking the city's ability to still procure such items (Stone and Zender 2015, 167). Likewise, three eccentric flints with "seven Classic Maya Heads in profile" each were also included in the cache(Fash 1991, 148). These flints display incredible skill, again highlighting the city's ability.
 
- In terms of sacrifice, stingray and sea urchin spines - tools for autosacrifice - were also discovered. These items were often used in rituals for ancestor worship and worship of Jaguar Tlaloc, a deity associated with warfare and sacrifice (Fash 1991, 148-149). Interestingly, the base of the cache's stairway is shaped like a Jaguar Tlaloc head, adding to the connection. Continuing the theme of sacrifice, a spiny oyster shell - associated with inauguration - was found to contain ash and bark paper believed to contain the king's blood. The combination of fire, blood, and shell is supposedly a reference to the fifteenth king's name translated as "Smoke Shell" (Fash 1991, 149). Though perhaps not as lavish as previous caches, the Hieroglyphic Stairway does contain items to continue its theme and reaffirms Copan's wealth and ability to complete the dedication.
+ In terms of sacrifice, stingray spines - tools for autosacrifice - were also discovered. These items were often used in rituals for ancestor worship and worship of Jaguar Tlaloc, a deity associated with warfare and sacrifice (Fash 1991, 148-149). Interestingly, the base of the cache's stairway is shaped like a Jaguar Tlaloc head, adding to the connection. Continuing the theme of sacrifice, a spiny oyster shell - associated with inauguration - was also found in this cache (Fash 1991, 149). Though perhaps not as lavish as previous caches, the Hieroglyphic Stairway does contain items to continue its theme and reaffirms Copan's wealth and ability to complete the dedication.
 
  Yet, the construction of the stairway itself shows the cracks forming in Copan's continued existence. Whereas the first portion was created in perhaps fifteen years, the second portion was likely created in six, less than half the time to create at least the same amount of material. Perhaps as a result, the quality is inconsistent. The top and bottom show stylized full-figured glyphs, but most of the other glyphs are rounder with lower relief and less nuance. Whereas the first portion shows greater control, the second portion appears rushed and like the "work of a journeyman" (Houston, Fash, and Stuart 2014). Furthermore, as previously mentioned, the blocks themselves were cemented with some of the weakest material found in the Principal Group, suggesting a lack of resources, time, or even morale from the workers constructing the stairway (Fash 1991, 150).
 
@@ -67,7 +67,6 @@ Notably, each of the king statues on the stairway are dressed in Teotihuacan war
 <li>Jaguar Tlaloc</li>
 <li>Macaw</li>
 <li>Rope</li>
-<li>Sea Urchin</li>
 <li>Spondylus Shell</li>
 <li>Stingray</li>
 <li>Waterlily</li>

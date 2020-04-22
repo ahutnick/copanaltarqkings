@@ -7,19 +7,19 @@ permalink: /stela-7/
 # Stela 7
 
 #### <strong>Location:</strong> Mound 7, in the Village / Modern Day Copan Ruinas
-#### <strong>Dates:</strong> 9.9.0.0.0 3 Ahau 3 Zodz  613
+#### <strong>Dates:</strong> 9.9.0.0.0 3 Ajaw 3 Zodz  613
 #### <strong>Rulers:</strong> 11
 #### <strong>Measurements:</strong> 10.8 feet x 2.46 feet x 1.64 feet at base, 10.8 feet x 2.69 feet x 1.57 feet at top (Baudez 1994, 137)
 
 Thirty-five years into his reign, <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> erected his first stela in the village to commemorate the 9.9.0.0.0 k'atun ending (Schele 1987, 200). Interestingly, no such stela has survived from his first k'atun ending twenty years prior. Stela 7 had been found and broken into two pieces in 1874. (Baudez 1994, 137). Besides the fractures, the content of the stela has also eroded and in some places broken off. The monument still contains traces of red paint and is believed to have originally been painted entirely red.  
 
-The stela had previously been attached to a cruciform chamber with a cribbed border. The cache within the chamber contained shell, perforated stone, obsidian points and knife, a jade stone with a carved portrait of an Early Classic ruler, and the remains of Stela 24 (Baudez 1994, 137; Schele and Stuart 1986, 48). Particularly of interest, this stela mentions a king who assumedly reigned before <a href="{{site.basurl}}/yax-kuk-mo">Yax K'uk Mo'</a>. <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> also evokes a ruler previous to the Founder's lineage in the text of the stela, using 12 before the hel or successor glyph
+The stela had previously been attached to a cruciform chamber with a cribbed border. The cache within the chamber contained shell, perforated stone, obsidian points and knife, a jade stone with a carved portrait of an Early Classic ruler, and the remains of Stela 24 (Baudez 1994, 137; Schele and Stuart 1986, 48). Particularly of interest, this stela mentions a king who assumedly reigned before <a href="{{site.basurl}}/yax-kuk-mo">Yax K'uk Mo'</a>. <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> also evokes a ruler previous to the Founder's lineage in the text of the stela, using 12 before the succession glyph.
 
-The stela is carved in the Type IV style with three sides containing glyphs and one side containing a figural depiction (Fash 2004, 259). In this case, its west side depicts <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> in high relief wearing a "Stingray-Xocfish headdress", a k'in cartouche, and jaguar masks (Schele 1987, 200; Baudez 1994, 137-139). He is surrounded by entwined serpents, particularly at his feet. At the top of the stela sits a skull in the shape of a water lily blossom, and a jaguar pelt forms the background. Though his hands are eroded, Butz' Chan carries the bicephalic serpent spear, with the Paddler Gods's heads emerging out of the serpents' mouths (Baudez 1994, 139; Schele 1987, 201).
+The stela is carved in the Type IV style with three sides containing glyphs and one side containing a figural depiction (Fash 2004, 259). In this case, its west side depicts <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> in high relief wearing a "Stingray-Xokfish headdress", a k'in cartouche, and jaguar masks (Schele 1987, 200; Baudez 1994, 137-139). He is surrounded by entwined serpents, particularly at his feet. At the top of the stela sits a skull in the shape of a water lily blossom, and a jaguar pelt forms the background. Though his hands are eroded, Butz' Chan carries the bicephalic serpent spear, with the Paddler Gods's heads emerging out of the serpents' mouths (Baudez 1994, 139; Schele 1987, 201).
 
 This stela has strong associations with rebirth, sacrifice, warfare, and the day and night duality. Baudez argues that through the stela <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> claims the jaguar as his patron, given the abundance of jaguar motifs (1994, 139). The jaguar has numerous associations, including warfare, wealth, the night, sorcery, fire, and water. The jaguar pelt, as seen in the background of this stela, would be linked to either warfare or wealth. The Jaguar Paddler God bears the cruller, the jaguar motif, and the beard evocative of the Underworld Jaguar God associated with warfare and fire (Stone and Zender 2011, 195; Baudez 1994, 139). Interestingly, <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s name is spelled in part with a knot made of netting followed by a -na, perhaps a nod to na meaning night and associating himself further with the jaguar imagery (Schele and Stuart 1986, 48-49). Finally, the k'in cartouche or eclipsing sun that <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> wears is also a symbol of warfare. The color red in relation to the sun would both evoke masculinity, ferocity, and vitality as well as the fiery aspect of the jaguar (Stone and Zender 2011, 153). Unlike in <a href="{{site.baseurl}}/stela-p">Stela P</a>, in which Baudez claims that the eleventh ruler claims the Earth Monster as his patron and thereby evokes fertility and rebirth, here he focuses more on the warfare aspect of this duality.  
 
-The idea of <em>akbal-kin</em> or duality particularly comes into focus when we consider the Paddler Gods. The Paddler Gods consist of the Stingray Spine God and the Jaguar God, representing day and night respectively as well as the psychopomps conveying souls through the cycle of death and rebirth (Stone and Zender 2011, 51). The skull and vegetation motif found at the top of the stela suggests the cycle of death and rebirth (Baudez 1994, 139).  The stingray aspect of the headdress may also evoke the Stingray Spine God, providing the day or ti aspect to the night or na aspect invoked by the jaguar helmet (Schele 1987, 201).
+The idea of <em>ak'bal-k'in</em> or duality particularly comes into focus when we consider the Paddler Gods. The Paddler Gods consist of the Stingray Spine God and the Jaguar God, representing day and night respectively as well as the psychopomps conveying souls through the cycle of death and rebirth (Stone and Zender 2011, 51). The skull and vegetation motif found at the top of the stela suggests the cycle of death and rebirth (Baudez 1994, 139).  The stingray aspect of the headdress may also evoke the Stingray Spine God, providing the day or ti aspect to the night or na aspect invoked by the jaguar helmet (Schele 1987, 201).
 
 Interestingly, the Paddler Gods were commonly depicted during period endings, but would usually be floating by the ruler's head rather than emerging out of the serpent bar as seen here and on <a href="{{site.baseurl}}/stela-p">Stela P</a>. However, despite <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s divergence from the norm, both depictions would assert the ruler's ability to summon these gods. In the usual case, the gods would be floating above the ruler's heads following the incense that the ruler had burned for them (Stone and Zender 2011, 51). In Stela 7 and <a href="{{site.baseurl}}/stela-p">Stela P</a>.'s cases, the gods emerging from the serpent bar would evoke <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s natural connection to the divine (Stone and Zender 2011, 201).
 
@@ -35,7 +35,7 @@ This stela unlike its counterpart was erected in the village rather than the Acr
 <li>Red</li>
 <li>Skull and Vegetation</li>
 <li>Stingray Spine</li>
-<li>Xocfish / Bull Shark</li>
+<li>Xokfish / Bull Shark</li>
 </ul>
 
 #### <strong>See Also:</strong>
@@ -44,7 +44,7 @@ This stela unlike its counterpart was erected in the village rather than the Acr
 <li><a href="{{site.baseurl}}/stela-e">Stela E</a></li>
 <li>Stela I</li>
 <li>Stela 1</li>
-<li>Stela 2</li>
+<li><a href="{{site.baseurl}}/stela-2">Stela 2</a></li>
 <li>Stela 18</li>
 </ul>
 
