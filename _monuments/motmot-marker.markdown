@@ -7,7 +7,7 @@ permalink: /motmot-marker/
 # Motmot Marker
 
 #### <strong>Location:</strong> In Front of Motmot Structure, <a href="{{site.baseurl}}/structure-26/">10L-26</a>
-#### <strong>Dates:</strong> 9.0.0.0.0 8 Ajaw 14 K'ej / December 9, 435
+#### <strong>Dates:</strong> 9.0.0.0.0 8 Ajaw 14 K'ej / December 9, 435 CE
 #### <strong>Rulers:</strong> 1 and 2
 
 <img src="{{site.baseurl}}/images/motmot-erickson.jpg">

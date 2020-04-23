@@ -7,7 +7,12 @@ permalink: /stela-n/
 # Stela N
 
 #### <strong>Location</strong>: Base of Hieroglyphic Stairway Courtyard, Base of Temple 11
-#### <strong>Dates</strong>: 9.16.10.0.0 1 Ajaw 3 Zip (Dedication), 9.15.6.16.5 6 Chicchan 3 Yaxk'in (R14 Accession), 9.15.17.13.10 11 Oc 13 Pop (R15 Accession)
+#### <strong>Dates</strong>:
+<ul>
+<li>9.15.6.16.5 6 Chicchan 3 Yaxk'in (R14 Accession)</li>
+<li>9.15.17.13.10 11 Oc 13 Pop (R15 Accession)</li>
+<li>9.16.10.0.0 1 Ajaw 3 Zip (Dedication)</li>
+</ul>
 #### <strong>Kings</strong>: 15, 14, 16?
 #### <strong>Measurements</strong>: 11.68 feet x 4.03 feet x 3.08 feet, relief 1.31 feet deep (North) and 1.48 feet (South)
 

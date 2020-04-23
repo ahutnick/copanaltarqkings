@@ -7,7 +7,11 @@ permalink: /quirigua-altar-l/
 # Quirigua Altar L
 
 #### <strong>Location:</strong> Quirigua, Exact Location Unsure
-#### <strong>Dates:</strong> 9.11.0.0.0 12 Ajaw / 653 CE, Dedicated 9.11.0.11.11 9 Chuwen 14 Sek / June 2, 653 CE
+#### <strong>Dates:</strong>
+<ul>
+<li>9.11.0.0.0 12 Ajaw / 653 CE</li>
+<li>Dedicated 9.11.0.11.11 9 Chuwen 14 Zec / June 2, 653 CE</li>
+</ul>
 #### <strong>Ruler:</strong> 12
 #### <strong>Measurements:</strong> 3.28 feet diameter, .82 feet thick
 

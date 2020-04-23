@@ -16,6 +16,7 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>Fash, William L., Barbara W. Fash, and Karla L. Davis-Salazar. 2004.
     "Setting the Stage: Origins of the Hieroglyphic Stairway on the Great Period Ending." In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 65-84. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Fasquelle, Ricardo Agurcia. 2004. "Rosalila, Temple of the Sun-King". In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 101-112. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
+<li>Friedel, David, Linda Schele, and Joy Parker. 1993. <cite>Maya Cosmos: Three Thousand Years on the Shaman's Path</cite>. New York: William Morrow.</li>
 <li>Grube, Nikolai. 1990. “Copan Note 68: A Reference to Water-Lily Jaguar on Stela 16” In <cite>Copan Notes, The</cite>, 1-5. Caracol: Copán Mosaics Project.</li>
 <li>Grube, Nikolai and Linda Schele. 1988. “Copan Note 43: A Quadrant Tree at Copan” In <cite>Copan Notes, The</cite>, 301-304. Austin, TX: Copan Mosaic Project.</li>
 <li>Herring, Adam. 2005. “A Borderland Colloquy: Altar Q, Copán, Honduras.” <cite>Art Bulletin, The</cite> 87(2): 194–229.</li>
@@ -42,6 +43,7 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>Sdouz, Gert. 2015. <cite>Altar Q Copan Honduras: A tour through the illustrations of one of the Maya’s most interesting monuments</cite>. Vienna: Wien.</li>
 <li>Stone, Andrea and Marc Zender. 2011. <cite>Reading Maya Art: A Hieroglyphic Guide to Ancient Maya Painting and Sculpture</cite>. London: Thames and Hudson.</li>
 <li>Stuart, David. 2004. "The Beginnings of the Copan Dynasty: A Review of the Hieroglyphic and Historical Evidence" In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 215-248. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
+<li>Stuart, David. 2007. "The Origin of Copan’s Founder" <cite>Maya Decipherment: Ideas on Ancient Maya Writing and Iconography</cite> website, June 25. Accessed April 21, 2020. https://mayadecipherment.com/2007/06/25/the-origin-of-copans-founder/</li>
 <li>Stuart, David, Nikolai Grube, Linda Schele, and Floyd Lounsbury. 1989.
     “Copan Note 56: Stela 63, A New Monument from Copan”. In <cite>The Copan Notes</cite>, 1-8. Austin, TX: Copan Mosaic Project</li>
 <li>Taube, Karl. 2004. "Structure 10L-16 and Its Early Classic Antecedents: Fire and the Evocation and Resurrection of K'inich Yax K'uk' Mo'". In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 265-296. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>

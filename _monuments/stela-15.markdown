@@ -6,12 +6,18 @@ permalink: /stela-15/
 
 # Stela 15
 
-#### <strong>Dates</strong>: 9.4.10.0.0.0, 9.0.0.0.0, 8.19.0.0.0
+#### <strong>Dates</strong>:
+<ul>
+<li>8.19.0.0.0 / 416 CE</li>
+<li>9.0.0.0.0 / 435 CE</li>
+<li>9.4.10.0.0.0</li>
+</ul>
+
 #### <strong>Kings</strong>: 7, 1
 
 Stela 15 is the only Copan monument definitively attributed to <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a>. The king is also mentioned contemporaneously on <a href="{{site.baseurl}}/caracol-stela-16">Caracol Stela 16</a>, making him the first Copan king to be mentioned on a monument outside of the region (Martin and Grube 2008, 197). Stela 15 is classified as a Type III stela with four sides of text (Fash, 2004, 259). It had been erected during the period from which we have no figural stelae (Fash 2004, 255).
 
-Erected for the half-k'atun ending, this stela celebrates multiple period endings in Copan's history (Schele and Schele 1986, 67). Of interest is the k'atun ending 8.19.0.0.0 and  the bak'tun ending 9.0.0.0.0, both involving <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> (Schele 1986a, 1). The 8.19.0.0.0 k'atun ending in particular occurs roughly ten years before the Founder's official arrival date as king in 8.19.11.0.13 / 427 (Stuart 2004, 223, 252). According to this stela, <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>, a foreigner, had visited Copan before his accession (Price et al. 2010; Stuart 2004, 223). The text even refers to the Founder as the "Lord of the West" - a title also found in Tikal referring to the king's Teotihuacan endorsement (Price et al. 2010). In so doing, <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> appears to emphasize <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>s power through his outside origins rather than through his local affiliations.
+Erected for the half-k'atun ending, this stela celebrates multiple period endings in Copan's history (Schele and Schele 1986, 67). Of interest is the k'atun ending 8.19.0.0.0 and  the bak'tun ending 9.0.0.0.0, both involving <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> (Schele 1986a, 1). The 8.19.0.0.0 k'atun ending in particular occurs roughly ten years before the Founder's official arrival date as king in 8.19.11.0.13 / 427 (Stuart 2004, 223, 252). According to this stela, <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>, a foreigner, had visited Copan before his accession (Price et al. 2010; Stuart 2004, 223). The text even refers to the Founder as the "Lord of the West" - a title referring to the king's Teotihuacan endorsement (Price et al. 2010). This title was also found in Tikal serving the same purpose for its king. In so doing, <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> appears to emphasize <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>s power through his outside origins rather than through his local affiliations.
 
 Likewise, the seventh ruler highlights the Founder's celebrated past through the 9.0.0.0.0 bak'tun ending. This date has been particularly auspicious in Copan's monumental history, appearing on at least five monuments (<a href="{{site.baseurl}}/motmot-marker">Motmot Marker</a>, <a href="{{site.baseurl}}/stela-63">Stela 63</a>, <a href="{{site.baseurl}}/stela-j">Stela J</a>, and Stela 28) (Stuart 2004, 240). At the time of this stela's erection, <a href="{{site.baseurl}}/stela-63">Stela 63</a> was still accessible in the <a href="{{site.baseurl}}/structure-26">Papagayo Structure</a> and would be until its destruction and replacement with <a href="{{site.baseurl}}/stela-j">Stela J</a> in 704 CE (Martin and Grube 2008, 203). Given this fact, this monument was not built as a replacement for <a href="{{site.baseurl}}/stela-63">Stela 63</a>, which was in turn a replacement of sorts for the <a href="{{site.baseurl}}/motmot-marker">Motmot Marker</a>.
 

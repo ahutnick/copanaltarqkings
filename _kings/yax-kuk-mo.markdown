@@ -9,7 +9,7 @@ image: /images/kings/r1-zwegers.jpg
 
 # Ruler 1: K'inich Yax K'uk Mo'
 
-#### <strong>AKA:</strong> Ajaw K'inich K'uk Mo', Ajaw K'uk' Mo', The Founder
+#### <strong>AKA:</strong> Ajaw K'inich K'uk Mo', Ajaw K'uk' Mo', Solar Green Quetzal Macaw, The Founder
 #### <strong>Reign:</strong> 426 - 437
 #### <strong>Preceded by:</strong> Smoke Codex God K (previous lineage)
 #### <strong>Succeeded by:</strong> <a href="{{site.baseurl}}/popol-hol">Popol Hol</a>
@@ -31,7 +31,7 @@ Despite his Teotihuacan garb on Altar Q, oxygen and strontium testing have confi
 
 While the theory is not conclusive, Tikal had notably been taken over in a similar manner to Copan by Sihyaj K'ahk', a general with strong ties to Teotihuacan, in 378 CE (Martin and Grube 2008, 30). Sihyaj K'ah' would preside over the accession of Yax Nuun Ahin I,  the son of Teotihuacan king Spearthrower Owl and a Tikal noblewoman, cementing a "New Order" in the Maya city (Martin and Grube 2008, 30-32). Given Tikal's strong ties to Teotihuacan, Yax K'uk' Mo' - then Ajaw K'uk' Mo' - could have gained status in Tikal and been chosen to be confirmed at Teotihuacan as the next king of Copan. As a center of trade routes between the Maya region and the rest of Central America, and with its proximity to Quirigua and its relation to the obsidian and jade routes to and from the Caribbean, Copan would have been an advantageous city to have under its influence (Price et al 2010).
 
-Altar Q states that for his accession , Yax K'uk' Mo' as K'uk' Mo' Ajaw first received k'awiil in "the original homeland" or foundation house on September 6, 426 (Sdouz 2015, 90). Three days later, he departed from this place (Sdouz 2011, 91). One hundred fifty-three days later, he - the "holy Kaloomte of the West" - arrived at Copan (Sdouz 2015, 94). This foundation house likely refers to either Teotihuacan or Tikal. Given the fact that Teotihuacan is 400 kilometers away and Tikal is 120 kilometers away from Copan, Yax K'uk' Mo' probably arrived at Copan from Teotihuacan considering he would have been traveling at an average of ten kilometers a day (Sdouz 2015, 94).
+Altar Q states that for his accession , Yax K'uk' Mo', then Ajaw K'uk' Mo' received K'awiil in Wiin te'naah or Origin House likely in Teotihuacan on September 6, 426 (Stuart 2004, 233, 237). Three days later, he departed from this place (Stuart 2004, 235). One hundred fifty-three days later, he - the "West Kaloomte" - arrived at Copan (Stuart 2004, 238).
 
 Similar to the events at Tikal, Yax K'uk' Mo' upon his arrival seized control of the throne from the city's previous king Smoke Codex God K, beginning his own lineage (Schele 1986, 4). Copan also underwent a significant redesign around this time though Yax K'uk' Mo' did largely work with the existing architectural layout (Traxler 2004, 55).
 
@@ -52,7 +52,6 @@ His son's efforts would take root, and Yax K'uk' Mo' would continue to be worshi
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
 <li>Price, T. Douglas, James H. Burton, Robert J. Sharer, Jane E. Buikstra, Lori E. Wright, Loa P. Traxler, and Katherine A. Miller. 2010. "Kings and Commoners at Copan: Isotopic Evidence for Origins and Movement in the Classic Maya Period." <cite>Journal of Anthropological Archaeology</cite> 29 (1): 15-32.</li>
 <li>Schele, Linda. 1986. “Copan Note 8: The Founders of Lineages at Copan and Other Maya Sites” In <cite>Copan Notes, The</cite>, 1-21. Austin, TX: Copan Mosaic Project.</li>
-<li>Sdouz, Gert. 2015. <cite>Altar Q Copan Honduras: A tour through the illustrations of one of the Maya’s most interesting monuments</cite>. Vienna: Wien.</li>
 <li>Stuart, David. 2004. "The Beginnings of the Copan Dynasty: A Review of the Hieroglyphic and Historical Evidence" In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 215-248. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Traxler, Loa P. 2004. "Redesigning Copan: Early Architecture of the Polity Center." In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 53-64. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 </ul>

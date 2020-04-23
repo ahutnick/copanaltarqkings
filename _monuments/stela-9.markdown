@@ -7,7 +7,7 @@ permalink: /stela-9/
 # Stela 9
 
 #### <strong>Location:</strong> Uncertain
-#### <strong>Dates:</strong> 9.6.10.0.0 8 Ajaw 13 Pax (about 564)
+#### <strong>Dates:</strong> 9.6.10.0.0 8 Ajaw 13 Pax / circa 564
 #### <strong>Rulers:</strong> 10, 7
 #### <strong>Measurements:</strong> Unknown
 

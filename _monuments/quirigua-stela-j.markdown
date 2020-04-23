@@ -7,7 +7,7 @@ permalink: /Quirigua Stela J/
 # Quirigua Stela J
 
 #### <strong>Location</strong>: Quirigua, Northern Platform -  Great Plaza
-#### <strong>Dates</strong>: April 12, 756, 9.16.5.0.0
+#### <strong>Dates</strong>: 9.16.5.0.0 / April 12, 756 CE
 #### <strong>Ruler</strong>: 13
 #### <strong>Measurements</strong>: 16.4 feet high, base 21.3 feet x 21.3 feet
 
@@ -30,7 +30,7 @@ This Chaak imagery continues on Quirigua Stela J, in which K'ahk' Tiliw Chan Yop
 
 Meanwhile, the pectoral represents the rebirth aspect of the deity and also functions as one of the three stones of creation along with  k'awiil scepter and the jaguar shield (Looper 2003, 106). Chaak's role of executioner when tied to splitting the mountain is also representative of rebirth as maize sprung from the cleft in the mountain (Stone and Zender 2011, 41). Likewise, the Paddler God's represent the life death cycle in their duality and role as psychopomps, including for the Maize God (Stone and Zender 2011, 51).  
 
-Interestingly, in this stela, K'ahk' Tiliw Chan Yopaat refers to himself with the succession glyph and the crossed bands glyph as the "Fourteenth Successor" (Schele 1986, 9). While the exact number of kings at Quirigua is unclear, this phenomenon is generally interpreted as the Quirigua king referring to himself as <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s successor, putting himself in competition with actual Copan king <a href="{{site.baseurl}}/kahk-joplaj-chan-kawiil">K'ahk' Joplaj Chan K'awiil</a> and adding further insult (Looper 2003, 101). In using the crossed bands glyph, the Quirigua king even refers to the Foundation House at which <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> both assumed the throne and oversaw Tok Casper's - Quirigua's first king - accession (Looper 2003 101; Martin and Grube 2008, 216).
+Interestingly, in this stela, K'ahk' Tiliw Chan Yopaat refers to himself with the succession glyph and the crossed bands glyph as the "Fourteenth Successor" (Schele 1986, 9). While the exact number of kings at Quirigua is unclear, this phenomenon is generally interpreted as the Quirigua king referring to himself as <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s successor, putting himself in competition with actual Copan king <a href="{{site.baseurl}}/kahk-joplaj-chan-kawiil">K'ahk' Joplaj Chan K'awiil</a> and adding further insult (Looper 2003, 101). In using the crossed bands glyph, the Quirigua king even refers to the Foundation House at which <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> both assumed the throne and oversaw Tok Casper's - Quirigua's first king - accession (Looper 2003 101; Martin and Grube 2008, 216). Similarly in this stela the Quirigua king refers to himself as having undergone ch'am-K'awiil, or taking K'awiil, on the day of the thirteenth Copan king's death. While taking K'awiil usually refers to accession, here the term likely refers in part to the authority that Quirigua won from Copan (Stuart 2004, 233). 
 
 Yet, this stela also asserts Quirigua's identity both as an emerging regional power and producer of its own monumental style. This stela at sixteen feet tall was a relatively early installment in a monumental program with stelae as tall as twenty-five feet, the highest in the region (Martin and Grube 2008, 221). With these impressive heights, Quirigua chose to abandon its former pattern of mimicking Copan stelae and return to its own Early Classic style (Martin and Grube 2008, 220-221). The wraparound design, shallow relief, squared shaft, blockiness, curved lines, and double outlines all work to revive and develop this style (Martin and Grube 2008, 221; Looper 2003, 110-112).
 
@@ -74,6 +74,7 @@ This stela understandably represents the rebirth of the city as a major power th
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
 <li>Schele, Linda. 1986. “Copan Note 8: The Founders of Lineages at Copan and Other Maya Sites” In <cite>Copan Notes, The</cite>, 1-21. Austin, TX: Copan Mosaic Project.</li>
 <li>Stone, Andrea and Marc Zender. 2011. <cite>Reading Maya Art: A Hieroglyphic Guide to Ancient Maya Painting and Sculpture</cite>. London: Thames and Hudson.</li>
+<li>Stuart, David. 2004. "The Beginnings of the Copan Dynasty: A Review of the Hieroglyphic and Historical Evidence" In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 215-248. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 </ul>
 
 #### <strong>Photographs</strong>:

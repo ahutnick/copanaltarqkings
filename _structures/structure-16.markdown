@@ -35,9 +35,15 @@ In addition to the materials from Central Mexico, ten pottery vessels were found
 #### <strong>Dates:</strong> circa 437
 #### <strong>Rulers:</strong> 2, 1
 
+<img src="{{site.baseurl}}/images/yehnal.jpg">
+
+##### <strong><em>Yehnal K'inich Mask</em></strong>
+
+##### <em>Photograph (Edited) Courtesy of Dr. Clark Erickson</em>
+
 Shortly after his father's burial, Popol Hol covered the Hunal structure with a temple to the founder. Built in the Peten style with apron moldings and vaulted rooms, this structure continued to evoke Lowland Maya architecture (Martin and Grube 2008, 195; Price et al. 2010). The building now faced west instead of its original north, facing the direction of the Underworld (Fasquelle 2004, 102). This orientation is fitting considering that the structure was dedicated to the deceased Founder.
 
-Yax K'uk' Mo' appears imposed in the mask of the Maya Sun God K’inich Tajal Wayib, with diagonal torches coming out of his head (Martin and Grube 2008, 195; Taube 2004, 277). The particular headdress depicts a Mexican year sign from Teotihuacan and Xochicalco imagery, combining Maya and Central Mexican imagery to establish the Founder's divinity (Taube 2004, 277). Though the structure was short-lived, worship of the Founder would continue to expand.
+Yax K'uk' Mo' appears imposed in the mask of the Maya Sun God K’inich Tajal Wayib, with diagonal torches coming out of his head (Martin and Grube 2008, 195; Taube 2004, 277). This deity was also found on Palenque's Tablet of the Sun, where it referred to the solar god GIII of the Palenque Triad (Stuart 2004, 223). This particular headdress depicts a Mexican year sign from Teotihuacan and Xochicalco imagery, combining Maya and Central Mexican imagery to establish the Founder's divinity (Taube 2004, 277). Though the structure was short-lived, worship of the Founder would continue to expand.
 
 ## Margarita
 #### <strong>Rulers:</strong> 2, 1
@@ -128,6 +134,7 @@ In a sense completing the Temple's message, <a href="{{site.baseurl}}/yax-pasaj-
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and
     Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
 <li>Price, T. Douglas, James H. Burton, Robert J. Sharer, Jane E. Buikstra, Lori E. Wright, Loa P. Traxler, and Katherine A. Miller. 2010. "Kings and Commoners at Copan: Isotopic Evidence for Origins and Movement in the Classic Maya Period." <cite>Journal of Anthropological Archaeology</cite> 29 (1): 15-32.</li>
+<li>Stuart, David. 2004. "The Beginnings of the Copan Dynasty: A Review of the Hieroglyphic and Historical Evidence" In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 215-248. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Taube, Karl. 2004. "Structure 10L-16 and Its Early Classic Antecedents: Fire and the Evocation and Resurrection of K'inich Yax K'uk' Mo'". In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 265-296. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Traxler, Loa P. 2004. "Redesigning Copan: Early Architecture of the Polity Center." In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 53-64. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 </ul>

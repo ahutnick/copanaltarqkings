@@ -27,7 +27,7 @@ image: /images/kings/r13-erickson.jpg
 <li>Temples 20, 21, 22</li>
 </ul>
 
-With the reign of the thirteenth king came the pinnacle of Classic Copan and subsequently one may argue the beginning of its end. His impact would be evident in future works. On Altar Q, his turban refers to his stela (Sdouz 2015, 109).
+With the reign of the thirteenth king came the pinnacle of Classic Copan and subsequently one may argue the beginning of its end. His impact would be evident in future works.
 
 From what we know of Waxaklajuun Ubaah K'awiil in life, he achieved an ambitious amount of building projects with eight stelae and renovations on five different structures. Paying homage to his immediate ancestors was also a particular strategy for the thirteenth ruler. Waxaklajuun Ubaah K'awiil honored the eleventh king <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> on <a href="{{site.baseurl}}/stela-a">Stela A</a> and his predecessor <a href="{{site.baseurl}}/kahk-uti-witz-kawiil">K'ahk Uti' Witz' K'awiil</a> in the <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a>, in which he had celebrated the history of the city.
 
@@ -51,5 +51,4 @@ In an attempt to rally an overpopulated people with too few resources, later kin
 <li>Fash, William L, 1991. <cite>Scribes, Warriors, and Kings: The City of Copán and the Ancient Maya</cite>. New York: Thames and Hudson.</li>
 <li>Looper, Matthew George. 2003. <cite>Lightning Warrior: Maya Art and Kingship at Quirigua.</cite> Austin: University of Texas Press.</li>
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
-<li>Sdouz, Gert. 2015. <cite>Altar Q Copan Honduras: A tour through the illustrations of one of the Maya’s most interesting monuments</cite>. Vienna: Wien.</li>
 </ul>

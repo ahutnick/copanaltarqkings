@@ -7,7 +7,7 @@ permalink: /stela-7/
 # Stela 7
 
 #### <strong>Location:</strong> Mound 7, in the Village / Modern Day Copan Ruinas
-#### <strong>Dates:</strong> 9.9.0.0.0 3 Ajaw 3 Zodz  613
+#### <strong>Dates:</strong> 9.9.0.0.0 3 Ajaw 3 Zodz / 613 CE
 #### <strong>Rulers:</strong> 11
 #### <strong>Measurements:</strong> 10.8 feet x 2.46 feet x 1.64 feet at base, 10.8 feet x 2.69 feet x 1.57 feet at top (Baudez 1994, 137)
 

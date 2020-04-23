@@ -51,4 +51,5 @@ Furthermore, as with Stela C, <a href="{{site.baseurl}}/yax-pasaj-chan-yopaat">Y
 <li>Grube, Nikolai and Linda Schele. 1987. “Copan Note 21: U Cit-Tok, The Last King of Copan” In <cite>The Copan Notes</cite>, 157-162. Austin, TX: Copan Mosaic Project</li>
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and
     Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
+<li>Sdouz, Gert. 2015. <cite>Altar Q Copan Honduras: A tour through the illustrations of one of the Maya’s most interesting monuments</cite>. Vienna: Wien.</li>
 </ul>

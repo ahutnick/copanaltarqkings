@@ -7,7 +7,7 @@ permalink: /stela-p/
 # Stela P
 
 #### <strong>Location:</strong> In front of <a href="{{site.baseurl}}/structure-16">Structure 10L-16</a>
-#### <strong>Dates:</strong> 9.9.10.0.0 2 Ajaw 13 Pop (March 21, 623)
+#### <strong>Dates:</strong> 9.9.10.0.0 2 Ajaw 13 Pop / March 21, 623 CE
 #### <strong>Rulers:</strong> 11, 1
 #### <strong>Measurements:</strong> 10.5 feet x 2.13 x 1.73 feet feet at base, 10.5 feet x 2.85 feet x 1.73 feet at top, cribbing 0.98 feet tall
 

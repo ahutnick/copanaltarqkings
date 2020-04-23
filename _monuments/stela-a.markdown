@@ -7,7 +7,7 @@ permalink: /stela-a/
 # Stela A
 
 #### <strong>Location:</strong> North of Structure 4, Main Plaza
-#### <strong>Dates:</strong>  9.14.19.8.0 12 Ajaw 8 Kumk’u, AD 731
+#### <strong>Dates:</strong>  9.14.19.8.0 12 Ajaw 8 Kumk’u / 731 CE
 #### <strong>Rulers:</strong> 13, 11
 #### <strong>Measurements:</strong> 11.65 feet x 2.85 feet x 2.56 feet, relief 1.7 feet deep, frame 5.87 feet x 5.64 feet x 1.28 feet (Baudez 1994, 19)
 
