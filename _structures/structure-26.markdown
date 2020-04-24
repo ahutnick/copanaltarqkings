@@ -78,7 +78,7 @@ Thirteenth Ruler <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun
 
 <img src="{{site.baseurl}}/images/hs-stela-m-erickson.jpg" width="300">
 
-##### <strong><em>Stela M and Hieroglyphic Stairway outside 10L-26></em></strong>
+##### <strong><em>Stela M and Hieroglyphic Stairway outside 10L-26</em></strong>
 
 ##### <em>Photograph Courtesy of Dr. Clark Erickson</em>
 

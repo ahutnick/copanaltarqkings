@@ -21,11 +21,6 @@ image: /images/kings/r15-zwegers.jpg
 <li><a href="{{site.baseurl}}/stela-n">Stela N</a></li>
 </ul>
 
-<img src="{{site.baseurl}}{{page.image}}">
-
-##### <strong><em>Altar Q Portrait</em></strong>
-##### <em>Photograph (Edited) Courtesy of Dr. Clark Erickson</em>
-
 The fifteenth king in <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>s lineage had a very different approach to monument building than his father <a href="{{site.baseurl}}/kahk-yipyaj-chan-kawiil">K'ahk' Yipyaj Chan K'awiil</a>. Whereas his father  performed his only renovation for the statesmen below him, granting them power through recognition, K'ahk Yipyaj Chan K'awiil would resurrect  <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s more ostentatious and ambitious monumental stylings to attempt to reinvigorate the city and reassert the king's authority.
 
 His first project was to add an extension onto <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s <a href="{{site.baseurl}}/hieroglyphic-stairway">Hieroglyphic Stairway</a>. Completed 9.16.4.1.0 / May 5, 755, the fifteenth king doubled the length of the previous stairway only six years after his accession (Fash 2011, 104; Martin and Grube 2008, 207). This version of the stairway attempts to reclaim the city's lost honor and assert its strength through its invocation of the ancestors (Fash 1991, 149). Five life sized figures of previous kings - one believed to have been <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a> - stand guard in the garb of Teotihuacan warriors (Fash 1991, 145). K'ahk' Yipyaj Chan K'awiil even went so far as to erect a new temple atop <a href="{{site.baseurl}}/structure-26">Structure 10L-26</a> that contained pseudo-glyphs evoking Teotihuacan's style (Martin and Grube 2008, 208). In this way, the fifteenth king harkens back to their connection to the now legendary city and also rewrites the incident of the thirteenth king's death by celebrating him as a warrior who fell honorably.
