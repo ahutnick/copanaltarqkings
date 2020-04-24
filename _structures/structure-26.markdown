@@ -115,9 +115,9 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 
 ##### <strong>Photographs</strong>:
 <ul>
-<li><a href="https://www.flickr.com/photos/lblanchard/8066813373/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-10-03_06univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</li>
-<li><a href="https://www.flickr.com/photos/lblanchard/8035940496/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-08-16_022univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</li>
-<li><a href="https://www.flickr.com/photos/lblanchard/8035939335/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-08-16_021univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</li>
+<li><a href="https://www.flickr.com/photos/lblanchard/8066813373/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-10-03_06univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></li>
+<li><a href="https://www.flickr.com/photos/lblanchard/8035940496/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-08-16_022univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></li>
+<li><a href="https://www.flickr.com/photos/lblanchard/8035939335/in/photolist-bnZWbF-RhECXz-5XyPtD-bnZWaF-df7iis-df9SDo-df7hLD-df7hNc-df7i9d-dhQwkz-dhQvMS-dhQw15-dhQwcr-dhQvT5-dhQvUG-dhQw23-dhQwzc-dhQvCS-dhQwBv/"><cite>2012-08-16_021univ_mus</cite></a>, by Laura Blanchard, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></li>
 <li>Other Photos Courtesy of Dr. Clark Erickson</li>
 </ul>
 

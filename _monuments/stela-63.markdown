@@ -10,7 +10,7 @@ permalink: /stela-63/
 #### <strong>Dates:</strong> 9.0.0.0.0 8 Ajaw 14 Kej / December 9, 435 CE
 #### <strong>Rulers:</strong> 1, 2, 4
 
-<img src="{{site.baseurl}}/images/stela-63-erickson.jpg">
+<img src="{{site.baseurl}}/images/stela-63-erickson.JPG">
 
 ##### Photo Courtesy of Dr. Clark Erickson
 

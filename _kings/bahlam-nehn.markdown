@@ -21,11 +21,6 @@ image: /images/kings/r7-erickson.jpg
 <li><a href="{{site.baseurl}}/stela-9">Stela 9</a></li>
 </ul>
 
-<img src="{{site.baseurl}}{{page.image}}">
-
-##### <strong><em>Altar Q Portrait</em></strong>
-##### <em>Photograph (Edited) Courtesy of Dr. Clark Erickson</em>
-
 On Altar Q, Bahlam Nehn the depiction of a Waterlily Jaguar head is a primary feature of his name glyph (Schele and Schele 1986 66). His name was however written in a variety of different ways, including with a k'atun title (Schele 1987, 236).
 
 Bahlam Nehn is the first king since <a href="{{site.baseurl}}/kaltuun-hix">K'altuun Hix</a> to have a confirmed surviving stela of his own - <a href="{{site.baseurl}}/stela-15">Stela 15</a>. This stela was categorized as a Type III with all four sides bearing glyphs (Fash 2004, 259). No figural stelae have been found between the reigns of the second king <a href="{{site.baseurl}}/popol-hol">Popol Hol</a> and the tenth king <a href="{{site.baseurl}}/moon-jaguar">Moon Jaguar</a> (Fash 2004, 255). this stela was erected to celebrate the 9.4.10.0.0 half k'atun ending and, Given the use of phrases such as "to burn" and "he binds stone", described the  associated rituals (Martin and Grube 2008, 197; Boot 2009 63, 105). He is also the first to refer to himself with his succession number as the seventh king in <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>s line.  

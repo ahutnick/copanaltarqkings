@@ -19,7 +19,7 @@ permalink: /altar-q/
 #### <strong>King</strong>: 16 - 1
 #### <strong>Measurements</strong>: 2.5 feet x 4 feet x 4 feet
 
-<img src="{{site.baseurl}}/images/aq-west-erickson-2.jpg">
+<img src="{{site.baseurl}}/images/aq-west-erickson-2.JPG">
 
 ##### <strong><em>Altar Q in Front of Temple 16</em></strong>
 
@@ -97,6 +97,3 @@ Having asserted the glory of Copan’s founding and its history, Yax Pasaj inser
 <li>Sdouz, Gert. 2015. <cite>Altar Q Copan Honduras: A tour through the illustrations of one of the Maya’s most interesting monuments</cite>. Vienna: Wien.</li>
 <li>Stuart, David. 2004. "The Beginnings of the Copan Dynasty: A Review of the Hieroglyphic and Historical Evidence" In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 215-248. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Taube, Karl. 2004. "Structure 10L-16 and Its Early Classic Antecedents: Fire and the Evocation and Resurrection of K'inich Yax K'uk' Mo'". In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 265-296.
-</ul>
-
-<br>

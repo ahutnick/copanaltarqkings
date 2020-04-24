@@ -43,4 +43,3 @@ Unfortunately, we do not currently know why the seventh king's name appears here
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
 <li>Price, T. Douglas, James H. Burton, Robert J. Sharer, Jane E. Buikstra, Lori E. Wright, Loa P. Traxler, and Katherine A. Miller. 2010. "Kings and Commoners at Copan: Isotopic Evidence for Origins and Movement in the Classic Maya Period." <cite>Journal of Anthropological Archaeology</cite> 29 (1): 15-32.</li>
 <li>Stuart, David. 2007. "The Origin of Copan’s Founder" <cite>Maya Decipherment: Ideas on Ancient Maya Writing and Iconography</cite> website, June 25. Accessed April 21, 2020. https://mayadecipherment.com/2007/06/25/the-origin-of-copans-founder/</li>
-</ul>
