@@ -12,7 +12,7 @@ permalink: /caracol-stela-16/
 
 Though we know little about the context, Caracol Stela 16 marks the first confirmed mention of a Copan king outside of the Southeastern region (Martin and Grube 2008, 197).
 
-While one side depicts the Caracol king K'an I, commissioner of this monument, the textual side describes the erection of the stelae as well as family and political relations (Grube 1990; Martin and Grube 2008, 87). Interestingly, in discussing his parents and grandfather, K'an I uses the "child of the mother" glyph, specifically invoking both of his parents (Grube 1990). After a now illegible portion of the text, K'an I discusses <em>yitah</em> and <em>tz'akab</em> - siblinghood and succession respectively - which may indicate a network of related royalty throughout the region. The text continues with a "royal woman from Xultun", a city in the Peten region in Guatemala and concludes with reference to "Copan Ajaw" <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> (Martin and Grube 2008, 87; Grube 1990).
+While one side depicts the Caracol king K'an I, commissioner of this monument, the textual side describes the erection of the stelae as well as familial and political relations (Grube 1990; Martin and Grube 2008, 87). After a now illegible portion of the text, K'an I discusses <em>yitah</em> and <em>tz'akab</em> - siblinghood and succession respectively - which may indicate a network of related royalty throughout the region. The text continues with a "royal woman from Xultun", a city in the Peten region in Guatemala and concludes with reference to "Copan Ajaw" <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> (Martin and Grube 2008, 87; Grube 1990).
 
 With the focus on family in the text, <a href="{{site.baseurl}}/bahlam-nehn">Bahlam Nehn</a> may have been a relative of K'an I. The Founder himself, <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>, is presumed to have been from the Central Peten Region, perhaps more specifically from Caracol (Price et al. 2010). On <a href="{{site.baseurl}}/stela-63">Stela 63</a>, <a href="{{site.baseurl}}/popol-hol">Popol Hol</a> refers to the Founder as <em>Uxwitza' ch'ajoom</em>, or "Three Hills Water Lord", with Three Hills Water being understood as a place name for Caracol. A similar title "Three Hills Lord" would later appear on <a href="{{site.baseurl}}/waxaklajuun-ubaah-kawiil">Waxaklajuun Ubaah K'awiil</a>'s <a href="{{site.baseurl}}/stela-j">Stela J</a> (Stuart 2007).
 
@@ -22,7 +22,6 @@ Unfortunately, we do not currently know why the seventh king's name appears here
 
 #### <strong><a href="{{site.baseurl}}/motif-glossary">Motifs</a></strong>
 <ul>
-<li>Child of Mother</li>
 <li>Serpent Bar</li>
 <li>Tuun in hand</li>
 </ul>

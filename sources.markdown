@@ -6,10 +6,11 @@ permalink: /sources/
 <ul>
 <li>Baudez, Claude-François. 1994. <cite>Maya Sculpture of Copán: The Iconography</cite>. Norman: University of Oklahoma Press.</li>
 <li>Boot, Erik. 2009. "The Updated Preliminary Classic Maya ‐ English, English ‐ Classic Maya Vocabulary of Hieroglyphic Readings." Mesoweb Resources.</li>
+<li>"Cauac Monster." <cite>Mesoweb Encyclopedia website</cite>. Accessed March 11, 2020. http://www.mesoweb.com/encyc/view.asp?record=5264&act=viewexact&view=normal&word=monster&wordAND=cauac</li>
 <li>Coe, Michael D. 1989. "The Hero Twins: Myth and Image." In <cite>Maya Vase Book, The: A Corpus of Rollout Photographs of Maya Vases</cite>, 161-184. Vol. 1. New York: Kerr Associates.</li>
 <li>Fash, Barbara W. 2004. “Early Classic Sculptural Development at Copan.” In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 249-264. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
 <li>Fash, Barbara W. 2011. <cite>Copan Sculpture Museum, The</cite>. Cambridge:Peabody Museum Press.</li>
-<li>Fash, Barbara and Alexandre Tokovinine. n.d. "3D Scanning Project: Peabody Museum’s Corpus of Maya Hieroglyphic Inscriptions program (CMHI)." <cite>Peabody Museum of Archaeology and Ethnology</cite>. Accessed March 25, 2020. https://www.peabody.harvard.edu/3dscan</li>
+<li>Fash, Barbara and Alexandre Tokovinine. "3D Scanning Project: Peabody Museum’s Corpus of Maya Hieroglyphic Inscriptions program (CMHI)." <cite>Peabody Museum of Archaeology and Ethnology</cite>. Accessed March 25, 2020. https://www.peabody.harvard.edu/3dscan</li>
 <li>Fash, William L, 1991. <cite>Scribes, Warriors, and Kings: The City of Copán and the Ancient Maya</cite>. New York: Thames and Hudson.</li>
 <li>Fash, William. 2002. "Religion and Human Agency in Ancient Maya History:
 Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal</cite> 12 (1): 5-19.</li>
@@ -25,8 +26,7 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>MacLeod, Barbara. 1988. “Copan Note 50: The 'Ninth Child of the Lineage': An Alternative Dynastic Reference to Moon-Jaguar on Stela 9 at Copan” In <cite>Copan Notes, The</cite>, 339-346. Austin, TX: Copan Mosaic Project.</li>
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and
     Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
-<li>Maudslay Note on Copan May 1894, 1894, 93-27-20/74959.1.4 2.4B, Box 2, Folder 4,  Central American Expedition Records, 1891-1901, Peabody Museum Archives, Cambridge, Massachusetts.</li>
-<li>"Maya Site of Copan." n.d. UNESCO World Heritage Centre website, Accessed March 19, 2020. whc.unesco.org/en/list/129</li>
+<li>"Maya Site of Copan." UNESCO World Heritage Centre website, Accessed March 19, 2020. whc.unesco.org/en/list/129</li>
 <li>Price, T. Douglas, James H. Burton, Robert J. Sharer, Jane E. Buikstra, Lori E. Wright, Loa P. Traxler, and Katherine A. Miller. 2010. "Kings and Commoners at Copan: Isotopic Evidence for Origins and Movement in the Classic Maya Period." <cite>Journal of Anthropological Archaeology</cite> 29 (1): 15-32.</li>
 <li>Schele, Linda. 1986a. “Copan Note 5: Paraphrase of the Text of Altar U” In <cite>Copan Notes, The</cite>, 25-27. Austin, TX: Copan Mosaic Project.</li>
 <li>Schele, Linda. 1986b. “Copan Note 8: The Founders of Lineages at Copan and Other Maya Sites” In <cite>Copan Notes, The</cite>, 1-21. Austin, TX: Copan Mosaic Project.</li>
