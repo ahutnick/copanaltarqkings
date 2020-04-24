@@ -24,6 +24,8 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>Houston, Stephen, Barbara Fash, and David Stuart. 2014-2015. "Masterful Hands: Morelli and the Maya on the Hieroglyphic Stairway, Copan, Honduras." <cite>Res: Anthropology and Aesthetics</cite>, 65-66(1), 15-36.</li>
 <li>Looper, Matthew George. 2003. <cite>Lightning Warrior: Maya Art and Kingship at Quirigua.</cite> Austin: University of Texas Press. </li>
 <li>MacLeod, Barbara. 1988. “Copan Note 50: The 'Ninth Child of the Lineage': An Alternative Dynastic Reference to Moon-Jaguar on Stela 9 at Copan” In <cite>Copan Notes, The</cite>, 339-346. Austin, TX: Copan Mosaic Project.</li>
+<li>Martin, Simon. 2015. "The Old Man of the Maya Universe:
+A Unitary Dimension to Ancient Maya Religion". In <cite>Maya Archaeology 3</cite>, 186-227. San Francisco: Precolumbia Mesoweb Press</li>
 <li>Martin, Simon and Nikolai Grube. 2008. <cite>Chronicle of the Maya Kings and
     Queens: Dynasties of the Ancient Maya.</cite> London: Thames and Hudson</li>
 <li>"Maya Site of Copan." UNESCO World Heritage Centre website, Accessed March 19, 2020. whc.unesco.org/en/list/129</li>
