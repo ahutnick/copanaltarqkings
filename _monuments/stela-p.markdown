@@ -23,9 +23,9 @@ The stela itself was erected on a prismatic chamber containing various works of 
 
 This stela deliberately evokes the archaic Early Classic style (Fash 2004, 256). Its low relief certainly harkens back to the earlier style as well as the serpent meeting the quincunx on the wristlet (Baudez 1994, 247).   
 
-Furthermore, the stela, being placed in front of the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a> dedicated to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a> would naturally provide associations with the Founder. The feathered serpents, though common in Maya depictions, was derived from Teotihuacan imagery and may have been a reference to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a>s association with the city (Stone and Zender 2011, 201). The serpents also represent Cosmic Monsters and therefore <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s connection with the supernatural (Baudez 1994, 95).
+Furthermore, the stela, being placed in front of the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a> dedicated to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> would naturally provide associations with the Founder. The feathered serpents, though common in Maya depictions, was derived from Teotihuacan imagery and may have been a reference to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>s association with the city (Stone and Zender 2011, 201). The serpents also represent Cosmic Monsters and therefore <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a>'s connection with the supernatural (Baudez 1994, 95).
 
-The bird headdress is also stylistically similar to the Sun God imagery in the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a> (Fash 2011, 56). Given that much of the Sun God imagery in the Temple evoked <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a> as well, <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> is literally putting on the image of the Founder with both the headdress and the Early Classic imagery. As was common in Copan monuments, the eleventh ruler does list himself as a successor to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a> in the text (Schele and Stuart 1986, 49).
+The bird headdress is also stylistically similar to the Sun God imagery in the <a href="{{site.baseurl}}/structure-16">Rosalila Temple</a> (Fash 2011, 56). Given that much of the Sun God imagery in the Temple evoked <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> as well, <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> is literally putting on the image of the Founder with both the headdress and the Early Classic imagery. As was common in Copan monuments, the eleventh ruler does list himself as a successor to <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a> in the text (Schele and Stuart 1986, 49).
 
 Baudez interprets this stela as <a href="{{site.baseurl}}/butz-chan">Butz' Chan</a> claiming the Earth Monster as his patron (1994, 95). Whereas the jaguar in <a href="{{site.baseurl}}/stela-7">Stela 7</a> focused on the sacrifice and warfare aspect of the Paddler God duality, this stela focuses more on the fertility and abundance aspects, although the jaguar elements are still present in this stela. The crocodile aspects of the helmet would confirm the Earth Monster theory, as the Maya like the Aztecs believed that the earth was a crocodile. The incorporation of the crocodile in association with the ruler, particularly on the vertical axis as the helmet implies, would assert the ruler's importance and control in the cosmic order. In the vertical alignment, the crocodile becomes an axis of the world (Stone and Zender 2011, 183).  
 
@@ -41,7 +41,7 @@ The Paddler Gods like in <a href="{{site.baseurl}}/stela-7">Stela 7</a> evoke th
 <li>Serpent bar</li>
 <li>Skull and vegetation</li>
 <li>Spotted Jaguar Headdress</li>
-<li>Sun God / Yax K'uk Mo'</li>
+<li>Sun God / Yax K'uk' Mo'</li>
 </ul>
 
 #### <strong>See Also:</strong>

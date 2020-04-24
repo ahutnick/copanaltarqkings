@@ -11,7 +11,7 @@ image: /images/kings/r2-zwegers.jpg
 
 #### <strong>AKA:</strong> Mat Head, Tok'
 #### <strong>Reign:</strong> circa 437
-#### <strong>Preceded by:</strong> <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk Mo'</a>
+#### <strong>Preceded by:</strong> <a href="{{site.baseurl}}/yax-kuk-mo">Yax K'uk' Mo'</a>
 #### <strong>Succeeded by:</strong> <a href="{{site.baseurl}}/ruler-3">Ruler 3</a>
 #### <strong>Structures:</strong>
 <ul>

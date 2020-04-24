@@ -50,3 +50,4 @@ Tales from the Hieroglyphic Stairway" In <cite>Cambridge Archaeological Journal<
 <li>Taube, Karl Andreas. [1992]2018. In <cite>Studies in Ancient Mesoamerican Art and Architecture: Selected Works</cite>, 174–203. San Francisco: Precolumbia Mesoweb Press.</li>
 <li>Taylor, Dicey. 1978. “The Cauac Monster,” In <cite>Tercera Mesa Redonda de Palenque</cite>, edited by Merle Greene Robertson and Donnan C. Jeffers, 79-90. Monterrey: Pre-Columbian Art Research Center.</li>
 <li>Traxler, Loa P. 2004. "Redesigning Copan: Early Architecture of the Polity Center." In <cite>Understanding Early Copan</cite>, edited by Ellen E. Bell, Marcello A. Canuto, & Robert J. Sharer, 53-64. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology</li>
+<li>Webster, David. 1999. "The Archaeology of Copán, Honduras." In <cite>Journal of Archaeological Research</cite> 7(1): 1-53</li>
