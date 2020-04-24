@@ -35,7 +35,7 @@ Interestingly, <a href="{{site.baseurl}}/stela-e">Stela E</a> provides a variati
 #### <strong>See Also</strong>:
 <ul>
 <li><a href="{{site.baseurl}}/stela-e">Stela E</a></li>
-<li><a href="{{site.baeurl}}/caracol-stela-16">Caracol Stela 16</a>
+<li><a href="{{site.baeurl}}/caracol-stela-16">Caracol Stela 16</a></li>
 <li><a href="{{site.baseurl}}/motmot-marker">Motmot Marker</a></li>
 <li><a href="{{site.baseurl}}/stela-63">Stela 63</a></li>
 <li><a href="{{site.baseurl}}/stela-j">Stela J</a></li>
